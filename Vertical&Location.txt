@@ -1,0 +1,2501 @@
+id	Industry_Vertical	SubVertical	City
+10000274	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10000369	Consumer Internet	inter-city cab aggregator	New Delhi
+10000485	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10000865	Consumer Internet	Online Bike & Car Services provider	Chennai
+10001910	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10003296	Education	Child Disorder Information & Education	Bhopal
+10003883	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10004300	Technology	Aadhaar-based API provider	Pune
+10004423	Consumer Internet	Mobile app based Job Search	Noida
+10004933	ECommerce	Organic Food eTailer	Bangalore
+10005203	Consumer Internet	Smart Parking Platform	New Delhi
+10005409	Consumer Internet	SME Online Buying Hub	Gurgaon
+10005597	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10007003	Consumer Internet	Online Fantasy Games	Mumbai
+10007777	Healthcare	Healthcare Product Manufacturer	Bangalore
+10008253	Consumer Internet	Co-Working Space Platform	New Delhi
+10008548	Healthcare	Weigh Loss Coaching	Mumbai
+10008765	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10008890	Consumer Internet	Online Real Estate Portal	Mumbai
+10009277	Consumer Internet	Food Delivery Platform	Hyderabad
+10009435	Consumer Internet	Online travel agent marketplace	Noida
+10009439	Consumer Internet	healthcare aggregator platform	Mumbai
+10009467	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10009660	Consumer Internet	Tech Enabler for Artists	Mumbai
+10009749	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10010667	Consumer Internet	First Aid care app	Gurgaon
+10011814	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10011964	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10012137	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10012726	ECommerce	Organic Food eTailer	Bangalore
+10012774	Consumer Internet	Photo Sharing for Groups	Bangalore
+10012819	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10012888			
+10013131	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10013606	Technology	Electronic Payments Solution Company	Mumbai
+10013707	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10013815	Technology	Financial Technology Research Platform	Bangalore
+10013896	Consumer Internet	Educational College Search platform	New Delhi
+10014547	Healthcare	Professional Health Services Platform	Mumbai
+10015128	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10015487	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10015525	Finance	Agricultural Loan	Chennai
+10015717	ECommerce	B2B Marketplace for Distributors	Mumbai
+10015744	Technology	Electronic Payments Solution Company	Mumbai
+10015956	Consumer Internet	Online lending platform	Bangalore
+10017746	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10017878	Technology	Online Tutorial Marketplace	Bangalore
+10018212	Consumer Internet	Online insurance policy aggregator	Noida
+10018469	Technology	Online Tutorial Marketplace	Bangalore
+10019319	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10020163	Consumer Internet	Online match-making app	Bangalore
+10020265	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10020299	Technology	Decision Sciences Analytics Solutions	Bangalore
+10020383	ECommerce	Online Grocery Store	Bangalore
+10020490	Technology	Home Automation & Security Solutions	Bangalore
+10020583	Technology	Electronic Payments Solution Company	Mumbai
+10021253	Consumer Internet	Live Online Coaching Classes	New Delhi
+10021694	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10021921	Technology	Next Generation in-building connectivity	Bangalore
+10022029	Consumer Internet	Online Education Portal	Gurgaon
+10023032	Consumer Internet	Tech Enabler for Artists	Mumbai
+10023197	Entertainment	Digital Entertainment for Children	Mumbai
+10024622	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10025841	ECommerce	Construction Material Marketplace	Bangalore
+10026135	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10027634	Consumer Internet	Automobile Service Booking App	Bangalore
+10027707	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10027859	Technology	Smartphone OS Developer	Bangalore
+10028088	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10028604	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10028631	Healthcare	Professional Health Services Platform	Mumbai
+10028712	Healthcare	Healthcare Product Manufacturer	Bangalore
+10028884	ECommerce	Online Rental Marketplace	Bangalore
+10029385	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10029721	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10029749	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10030396	Finance	Agricultural Loan	Chennai
+10030646	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10031983	Technology	Online Tutorial Marketplace	Bangalore
+10032511	ECommerce	Mobile Accessories etailer	New Delhi
+10033416	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10033807	Technology	Local language Mobile OS	Mumbai
+10034229	Consumer Internet	Carpooling Mobile App	Gurgaon
+10034387	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10034587	Technology	Connected Smart Home Solutions	Bangalore
+10034758	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10034835	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10035357	Consumer Internet	Casual Gaming platform	New Delhi
+10035988	ECommerce	Online Jewellery etailer	Bangalore
+10037047	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10037356	ECommerce	Online platform for Higher Education Services	New Delhi
+10037420	Technology	Personal Assistant	Bengaluru
+10037903	ECommerce	Kids Focused eTailer	Pune
+10038683	ECommerce	Online Grocery Store	Bangalore
+10038795	Consumer Internet	Parenting Mobile App	New Delhi
+10038918	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10039638	Consumer Internet	SME Online Buying Hub	Gurgaon
+10040142	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10040547	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10040590	Technology	Customer Engagement Platform	New Delhi
+10040625	ECommerce	Organic Food eTailer	Bangalore
+10040682	ECommerce	Adult Products Etailers	New Delhi / US
+10040783	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10040863	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10040969	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10041091	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10041551	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10042043	Technology	Decision Sciences Analytics Solutions	Bangalore
+10042207	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10042248	Technology	Decision Sciences Analytics Solutions	Bangalore
+10042289	Technology	Local language Mobile OS	Mumbai
+10042741	Consumer Internet	DIY event registration and ticketing portal	Pune
+10042828	ECommerce	Online Jewellery etailer	Bangalore
+10043051	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10043401	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10043661	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10044571	Consumer Internet	Online Fantasy Games	Mumbai
+10044673	Technology	VR based Spiritual platform	Bangalore
+10045005	Technology	Real time data analytics & reporting	Bangalore
+10045329	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10045373	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10045420	Technology	Decision Sciences Analytics Solutions	Bangalore
+10045493	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10045709	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10045756	Consumer Internet	Educational College Search platform	New Delhi
+10046035	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10046884	Consumer Internet	DIY event registration and ticketing portal	Pune
+10047214	ECommerce	ECommerce Marketplace	Gurgaon
+10047644	Consumer Internet	Online Fantasy Games	Mumbai
+10047745	Technology	Data Intelligence & Analytics	Hyderabad
+10047977	Technology	VR based Spiritual platform	Bangalore
+10048162	Consumer Internet	Rental Bike Aggregator App	Noida
+10048702	Finance	Startup Crowd-funding platform	Mumbai
+10048923	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10049564	ECommerce	Online platform for Higher Education Services	New Delhi
+10049843	Entertainment	Digital Entertainment for Children	Mumbai
+10050083	Healthcare	Professional Health Services Platform	Mumbai
+10050681	Education	Career Planning and Education Advisory Platform	Mumbai
+10051271	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10051315	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10051373	Consumer Internet	Online lending platform	Bangalore
+10051502	ECommerce	Mobile Accessories etailer	New Delhi
+10051549	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10052077	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10052164	Consumer Internet	Auto Classifieds Portal	Mumbai
+10052261	Technology	Personal Assistant	Bengaluru
+10053333	Consumer Internet	Casual Gaming platform	New Delhi
+10053347	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10053632	Consumer Internet	on-demand concierge services	Gurgaon
+10053733	Technology	Mobile & Cloud based App developer	New Delhi
+10053829	Logistics	Online freight aggregator	Bangalore
+10054050	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10054081	ECommerce	Women Fashion Portal	Bangalore
+10054217	Consumer Internet	Carpooling Mobile App	Gurgaon
+10055027	Technology	Local language Mobile OS	Mumbai
+10055120	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10057696	Consumer Internet	on-demand concierge services	Gurgaon
+10057840	Technology	Real time data analytics & reporting	Bangalore
+10057853	Consumer Internet	Personal Finance Mobile App	Bangalore
+10058074	Education	Children Education & Information platform	Gurgaon
+10058095	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10058635	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10058874	Consumer Internet	Auto Classifieds Portal	Mumbai
+10059092	Consumer Internet	Parenting Social Network	Bangalore
+10059136	Consumer Internet	Mobile based Referral Platform	Mumbai
+10059382	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10059704	Finance	Startup Crowd-funding platform	Mumbai
+10060236	Consumer Internet	Ride Sharing platform	Bangalore
+10060267	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10060483	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10060496	Healthcare	Medical Tourism platform	Pune
+10060660	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10060663	ECommerce	Home D?cor Product etailer	New Delhi
+10061037	Finance	Social Business Incubator & Fund	Chennai
+10061041	Technology	Mobile & Cloud based App developer	New Delhi
+10061499	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10061511	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10061569	Consumer Internet	SME Online Buying Hub	Gurgaon
+10062315	ECommerce	Home D?cor Product etailer	New Delhi
+10062525	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10063187	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10063214	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10063350	Consumer Internet	Online Real Estate Portal	Mumbai
+10063864	Consumer Internet	Online insurance policy aggregator	Noida
+10064118	Consumer Internet	Mobile Advertising App	Noida
+10064168	Technology	Mobile App Analytics	Mumbai
+10064237	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10064357	Finance	Online Lending	Ahmedabad
+10065370	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10067369	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10067720	Consumer Internet	healthcare aggregator platform	Mumbai
+10068357	Consumer Internet	Live Online Coaching Classes	New Delhi
+10068374	Consumer Internet	Party Hall Booking platform	Bangalore
+10068876	Consumer Internet	Rental Bike Aggregator App	Noida
+10069231	Technology	Electronic Payments Solution Company	Mumbai
+10070187	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10070407	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10070628	Consumer Internet	DIY event registration and ticketing portal	Pune
+10070819	Consumer Internet	Mobile Advertising App	Noida
+10071160	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10071880	Consumer Internet	Auto Classifieds Portal	Mumbai
+10072882	Consumer Internet	Online Fantasy Games	Mumbai
+10075139	Technology	Home Automation & Security Solutions	Bangalore
+10075443	Consumer Internet	Crowd Funding Platform	New Delhi
+10076124	ECommerce	ECommerce Marketplace	Gurgaon
+10076342	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10076438	Consumer Internet	Mobile balance Checking App	Gurgaon
+10076735	Technology	Expense Management Solution	Bangalore
+10076984	Consumer Internet	Deal Discovery App	Bangalore
+10077226	Consumer Internet	Food Delivery Platform	Hyderabad
+10077948	Technology	Online Tutorial Marketplace	Bangalore
+10078196	Consumer Internet	Smart Parking Platform	New Delhi
+10079107	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10079297	Technology	Real time data analytics & reporting	Bangalore
+10079306	Technology	Local language Mobile OS	Mumbai
+10079815	Technology	Customer Engagement Platform	New Delhi
+10080385	Technology	Next Generation in-building connectivity	Bangalore
+10080812	Education	Child Disorder Information & Education	Bhopal
+10081753	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10082191	Consumer Internet	Parenting Mobile App	New Delhi
+10082243	Healthcare	Salons & Spa Chain	Gurgaon
+10082532	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10082600	Consumer Internet	Mobile Advertising App	Noida
+10083408	ECommerce	Construction Material Marketplace	Bangalore
+10083694	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10084265	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10084462	Technology	Smartphone OS Developer	Bangalore
+10084571	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10085276			
+10085368	Finance	Social Business Incubator & Fund	Chennai
+10085495	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10085699	Consumer Internet	Mobile based Referral Platform	Mumbai
+10085747	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10085924	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10085993	Technology	Next Generation in-building connectivity	Bangalore
+10086017	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10086049	Education	Mobile Based Education platform	Jaipur
+10086098	Consumer Internet	Mobile balance Checking App	Gurgaon
+10086920	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10087485	Technology	Hotel Management Solution	Kolkata
+10087744	Technology	Real time data analytics & reporting	Bangalore
+10087746	ECommerce	Kids Focused eTailer	Pune
+10088190	Finance	Online Lending	Ahmedabad
+10088433	Consumer Internet	Online travel agent marketplace	Noida
+10088696	Finance	Online Lending	Ahmedabad
+10089023	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10089134	Consumer Internet	Deal Discovery App	Bangalore
+10089616	Technology	Decision Sciences Analytics Solutions	Bangalore
+10089943	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10090103	E-commerce	Food and Beverages	Bengaluru
+10091005	Technology	Next Generation in-building connectivity	Bangalore
+10091238	Consumer Internet	Online Education Portal	Gurgaon
+10092282	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10092403	Technology	TV to Mobile audience Platform	Gurgaon
+10092471	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10092878	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10093222	Consumer Internet	Photo Sharing for Groups	Bangalore
+10093246	Consumer Internet	Online insurance policy aggregator	Noida
+10093937	Consumer Internet	Curated Platform for Developers	Hyderabad
+10094519	Consumer Internet	Live Online Coaching Classes	New Delhi
+10094574	Technology	Expense Management Solution	Bangalore
+10094916	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10097014	Technology	TV to Mobile audience Platform	Gurgaon
+10097308	Consumer Internet	Mobile balance Checking App	Gurgaon
+10098051	Consumer Internet	Party Hall Booking platform	Bangalore
+10098245	Consumer Internet	Party Hall Booking platform	Bangalore
+10098487	ECommerce	B2B Marketplace for Distributors	Mumbai
+10098488	Consumer Internet	P2P Messaging Service	New Delhi
+10098601	Technology	Medical Devices	Surat
+10098940	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10099880	Logistics	Online freight aggregator	Bangalore
+10100096	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10100341	Consumer Internet	Mobile app based Job Search	Noida
+10101570	Technology	Medical Automation platform	Bangalore
+10101735	ECommerce	Online Jewellery etailer	Bangalore
+10102520	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10102521	Technology	Data Analytics platform	New Delhi
+10104559	ECommerce	Adult Products Etailers	New Delhi / US
+10104644	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10105383	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10105994	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10106752	ECommerce	ECommerce Marketplace	Gurgaon
+10107315	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10107430	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10107955	Consumer Internet	Casual Gaming platform	New Delhi
+10108059	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10108089	ECommerce	Construction Material ETailer	Gurgaon
+10108754	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10109570	ECommerce	Online Pet Store	Gurgaon
+10110048	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10110125	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10110365	Technology	Financial Technology Research Platform	Bangalore
+10110536	Consumer Internet	Hobby & Activity Class Aggregator	Mumbai
+10110587	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10110872	Consumer Internet	Online Counselling Platform	Mumbai
+10112523	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10112646			
+10113661	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10113665	Healthcare	Salons & Spa Chain	Gurgaon
+10113819	Consumer Internet	Carpooling Mobile App	Gurgaon
+10113835	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10114516	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10114603	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10114697	Consumer Internet	Ride Sharing platform	Bangalore
+10115595	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10115607	Consumer Internet	healthcare aggregator platform	Mumbai
+10115933	Technology	Medical Devices	Surat
+10116161	Healthcare	Weigh Loss Coaching	Mumbai
+10116333	Technology	Electronic Payments Solution Company	Mumbai
+10116356	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10117338	Consumer Internet	Crowd Funding Platform	New Delhi
+10117791	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10117882	Technology	TV to Mobile audience Platform	Gurgaon
+10117885	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10118121	ECommerce	Construction Material Marketplace	Bangalore
+10118309	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10118686	Consumer Internet	Online Furniture Customization platform	Bangalore
+10119148	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10120038	Consumer Internet	Mobile Advertising App	Noida
+10120177	Education	Children Education & Information platform	Gurgaon
+10120178	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10120269	Technology	Medical Devices	Surat
+10120515	Technology	Data Intelligence & Analytics	Hyderabad
+10121662			
+10121733	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10121924	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10122863	Technology	Local language Mobile OS	Mumbai
+10123426	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10123723	Consumer Internet	Auto Classifieds Portal	Mumbai
+10124681	Healthcare	Professional Health Services Platform	Mumbai
+10125245	Consumer Internet	Food Delivery Platform	Hyderabad
+10125327	E-commerce	Retail	Delhi
+10125723	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10126657	Technology	Local language Mobile OS	Mumbai
+10126749	Consumer Internet	Mobile app based Job Search	Noida
+10128105	Consumer Internet	Online insurance policy aggregator	Noida
+10128808	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10128912	Consumer Internet	SME Online Buying Hub	Gurgaon
+10130594	Finance	Online Lending	Ahmedabad
+10130914	eCommerce	Online Marketplace	Bangalore
+10130954	Technology	TV to Mobile audience Platform	Gurgaon
+10130995			
+10131712	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10132010	Consumer Internet	Online match-making app	Bangalore
+10133005	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10133461	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10135068	Consumer Internet	healthcare aggregator platform	Mumbai
+10135091	Healthcare	Healthcare Product Manufacturer	Bangalore
+10135650	Consumer Internet	Deal Discovery App	Bangalore
+10135656	Technology	Data Intelligence & Analytics	Hyderabad
+10136254	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10136767	Technology	Data Intelligence & Analytics	Hyderabad
+10137847	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10138328	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10138828	Consumer Internet	on-demand concierge services	Gurgaon
+10139144	ECommerce	Adult Products Etailers	New Delhi / US
+10139679	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10140467	Entertainment	Digital Entertainment for Children	Mumbai
+10140905	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10141379	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10141749	Technology	Online Tutorial Marketplace	Bangalore
+10141904	Education	School Student admissions platform	New Delhi
+10142695	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10142999	Technology	Aadhaar-based API provider	Pune
+10143351	Technology	Smartphone OS Developer	Bangalore
+10143558	Consumer Internet	Tech Enabler for Artists	Mumbai
+10144281	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10144324	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10144491	Consumer Internet	on-demand concierge services	Gurgaon
+10144668	Consumer Internet	Educational College Search platform	New Delhi
+10145846	Finance	Social Business Incubator & Fund	Chennai
+10146402	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10146689	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10146778	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10147100	Education	Career Planning and Education Advisory Platform	Mumbai
+10147419	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10147446	Consumer Internet	Mobile based Referral Platform	Mumbai
+10148394	ECommerce	Online platform for Higher Education Services	New Delhi
+10149139	Consumer Internet	Online Real Estate Portal	Mumbai
+10149476	Consumer Internet	SME Online Buying Hub	Gurgaon
+10149728	Logistics	Online freight aggregator	Bangalore
+10150202	Education	Mobile Based Education platform	Jaipur
+10150442	Education	College Education Portal	New Delhi
+10150592	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10150946	Consumer Internet	Personal Finance Mobile App	Bangalore
+10150966	Technology	Connected Smart Home Solutions	Bangalore
+10151261	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10151367	Consumer Internet	Online insurance policy aggregator	Noida
+10151491	ECommerce	Online Jewellery etailer	Bangalore
+10151575	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10152168	Healthcare	Healthcare Product Manufacturer	Bangalore
+10152682	ECommerce	Women Fashion Portal	Bangalore
+10152874	Consumer Internet	Educational College Search platform	New Delhi
+10153444	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10154313	Technology	Hotel Management Solution	Kolkata
+10154574	ECommerce	ECommerce Marketplace	Gurgaon
+10155093	Healthcare	Medical Tourism platform	Pune
+10155097	Consumer Internet	Co-Working Space Platform	New Delhi
+10155367	Technology	Aadhaar-based API provider	Pune
+10155743	E-commerce	Retail	Delhi
+10155765	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10155946	Technology	Electronic Payments Solution Company	Mumbai
+10155966	Consumer Internet	Photo Sharing for Groups	Bangalore
+10157341	Consumer Internet	Online lending platform	Bangalore
+10157359	Technology	Decision Sciences Analytics Solutions	Bangalore
+10157446	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10157819	Consumer Internet	Mobile app based Job Search	Noida
+10158015	Consumer Internet	Online Furniture Customization platform	Bangalore
+10158267	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10158966	Technology	Customer Engagement Platform	New Delhi
+10159388	Consumer Internet	Auto Classifieds Portal	Mumbai
+10160685	Consumer Internet	Smart Parking Platform	New Delhi
+10161135	Consumer Internet	Automobile Service Booking App	Bangalore
+10161403	Consumer Internet	Online Real Estate Portal	Mumbai
+10163862	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10163950	Technology	Customer Engagement Platform	New Delhi
+10164221	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10164897	Consumer Internet	Parenting Mobile App	New Delhi
+10165078	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10165340	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10165578	ECommerce	B2B Marketplace for Distributors	Mumbai
+10165602	Consumer Internet	Party Hall Booking platform	Bangalore
+10165837	Consumer Internet	Photo Sharing for Groups	Bangalore
+10166237	ECommerce	Women Fashion Portal	Bangalore
+10166398	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10166464	ECommerce	Online Grocery Store	Bangalore
+10166839	Consumer Internet	Online travel agent marketplace	Noida
+10167963	Consumer Internet	Auto Classifieds Portal	Mumbai
+10168392	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10168450	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10169423	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10169860			
+10170294	Consumer Internet	Online insurance policy aggregator	Noida
+10171083	Consumer Internet	Casual Gaming platform	New Delhi
+10171284	Healthcare	Professional Health Services Platform	Mumbai
+10171708	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10171817	ECommerce	Home D?cor Product etailer	New Delhi
+10171891	Technology	Aadhaar-based API provider	Pune
+10171973	Consumer Internet	Online Counselling Platform	Mumbai
+10171997	Consumer Internet	Online travel agent marketplace	Noida
+10172028	Consumer Internet	healthcare aggregator platform	Mumbai
+10172058	ECommerce	Online Jewellery etailer	Bangalore
+10172233	ECommerce	B2B Marketplace for Distributors	Mumbai
+10172561	ECommerce	Online Rental Marketplace	Bangalore
+10173114	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10173445	Consumer Internet	Online Counselling Platform	Mumbai
+10173808	ECommerce	Online Rental Marketplace	Bangalore
+10174878	Consumer Internet	Live Online Coaching Classes	New Delhi
+10174975	Consumer Internet	Deal Discovery App	Bangalore
+10175720	Consumer Internet	Personal Finance Mobile App	Bangalore
+10176112	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10176636	E-commerce	Food and Beverages	Bengaluru
+10176990	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10177979	Technology	Medical Automation platform	Bangalore
+10178184	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10178222	Healthcare	Medical Tourism platform	Pune
+10178712			
+10179144	Consumer Internet	DIY event registration and ticketing portal	Pune
+10179744	Consumer Internet	P2P Messaging Service	New Delhi
+10179810	Technology	Data Intelligence & Analytics	Hyderabad
+10180516	Technology	Decision Sciences Analytics Solutions	Bangalore
+10181191	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10181455	Consumer Internet	Ride Sharing platform	Bangalore
+10181598	Consumer Internet	Online travel agent marketplace	Noida
+10181778			
+10182240	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10182496	ECommerce	Online Jewellery etailer	Bangalore
+10183969	Consumer Internet	Live Online Coaching Classes	New Delhi
+10184547	eCommerce	Solution provider for pet needs	Mumbai
+10184668	Logistics	Online freight aggregator	Bangalore
+10184722	Education	School Student admissions platform	New Delhi
+10185117	Consumer Internet	Online insurance policy aggregator	Noida
+10185132	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10185225	Education	Child Disorder Information & Education	Bhopal
+10185421	Technology	Next Generation in-building connectivity	Bangalore
+10185505	Consumer Internet	Ride Sharing platform	Bangalore
+10186621	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10187049	Education	Mobile Based Education platform	Jaipur
+10187852	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10188185	Technology	TV to Mobile audience Platform	Gurgaon
+10188233	eCommerce	Online Marketplace	Bangalore
+10188964	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10189524	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10189534	Consumer Internet	Co-Working Space Platform	New Delhi
+10189896	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10189963	Consumer Internet	healthcare aggregator platform	Mumbai
+10190774			
+10191296	ECommerce	Online Pet Store	Gurgaon
+10191525	Education	Children Education & Information platform	Gurgaon
+10191600	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10192298	ECommerce	Women Fashion Portal	Bangalore
+10193259	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10193414	Healthcare	Professional Health Services Platform	Mumbai
+10193623	Consumer Internet	Live Online Coaching Classes	New Delhi
+10194616	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10194712	Consumer Internet	Mobile app based Job Search	Noida
+10195056	Consumer Internet	Mobile Advertising App	Noida
+10195105	Consumer Internet	Mobile Advertising App	Noida
+10195298	eCommerce	Online Marketplace	Bangalore
+10195332	Finance	Agricultural Loan	Chennai
+10195437	Consumer Internet	Online Fantasy Games	Mumbai
+10195524	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10196028	Consumer Internet	Co-Working Space Platform	New Delhi
+10196436	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10197895	ECommerce	Adult Products Etailers	New Delhi / US
+10199262	Technology	VR based Spiritual platform	Bangalore
+10199615	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10199679	Consumer Internet	Educational College Search platform	New Delhi
+10200632	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10200658	ECommerce	Construction Material Marketplace	Bangalore
+10201066	Technology	Electronic Payments Solution Company	Mumbai
+10201200	Technology	Data Intelligence & Analytics	Hyderabad
+10201554	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10202126	Education	Child Disorder Information & Education	Bhopal
+10202569	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10203631	Education	Child Disorder Information & Education	Bhopal
+10203684	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10203867	Healthcare	Medical Tourism platform	Pune
+10204361	Consumer Internet	Online lending platform	Bangalore
+10204969	Consumer Internet	SME Online Buying Hub	Gurgaon
+10205425	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10206784	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10206892	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10208405	ECommerce	Online Jewellery etailer	Bangalore
+10209798	ECommerce	Online marketplace for cars	Mumbai
+10210167	Healthcare	Professional Health Services Platform	Mumbai
+10210294	Education	College Education Portal	New Delhi
+10211292	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10212739	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10212753	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10213272	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10213488	Consumer Internet	Parenting Mobile App	New Delhi
+10214634	Healthcare	Professional Health Services Platform	Mumbai
+10214999	Consumer Internet	Casual Gaming platform	New Delhi
+10215391	Consumer Internet	Auto Classifieds Portal	Mumbai
+10216297	ECommerce	Online Grocery Store	Bangalore
+10216483	Consumer Internet	Mobile based Referral Platform	Mumbai
+10216661	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10216923	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10217597	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10218028	ECommerce	Specialty Tea ETailer	Siliguri
+10219055	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10219293	Consumer Internet	Parenting Mobile App	New Delhi
+10220171	Consumer Internet	Online Real Estate Portal	Mumbai
+10220240	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10221101	Consumer Internet	First Aid care app	Gurgaon
+10221733	Technology	TV to Mobile audience Platform	Gurgaon
+10221879	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10222119	Consumer Internet	Online Furniture Customization platform	Bangalore
+10222166	Consumer Internet	Food Delivery Platform	Hyderabad
+10223114	Consumer Internet	Auto Classifieds Portal	Mumbai
+10224929	Consumer Internet	Online Furniture Customization platform	Bangalore
+10225073	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10225688	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10225716	Consumer Internet	Online insurance policy aggregator	Noida
+10225761	Education	School Student admissions platform	New Delhi
+10226808	Education	Mobile Based Education platform	Jaipur
+10227733	Consumer Internet	Auto Classifieds Portal	Mumbai
+10228066	Technology	Data Intelligence & Analytics	Hyderabad
+10228491	Consumer Internet	Rental Bike Aggregator App	Noida
+10228578	Consumer Internet	Party Hall Booking platform	Bangalore
+10228754	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10229171	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10229490	Consumer Internet	inter-city cab aggregator	New Delhi
+10230724	Consumer Interne	Medical Video Consultation platform	Bangalore
+10231317	Healthcare	Medical Tourism platform	Pune
+10231730	Technology	Electronic Payments Solution Company	Mumbai
+10232175	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10232376	ECommerce	Construction Material ETailer	Gurgaon
+10232594	ECommerce	Online Food Delivery Platform	Bangalore
+10232887	Technology	Medical Devices	Surat
+10233059	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10233848	Consumer Internet	Crowd Funding Platform	New Delhi
+10234827	Finance	Startup Crowd-funding platform	Mumbai
+10234847	Consumer Internet	Auto Classifieds Portal	Mumbai
+10234996	Consumer Internet	Smart Parking Platform	New Delhi
+10235031	Education	School Student admissions platform	New Delhi
+10235128	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10235164	Consumer Internet	Casual Gaming platform	New Delhi
+10235943	ECommerce	Kids Focused eTailer	Pune
+10236091	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10236307	Technology	Smartphone OS Developer	Bangalore
+10237320	Technology	Personal Assistant	Bengaluru
+10237610	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10237752	Consumer Internet	Photo Sharing for Groups	Bangalore
+10237795	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10238322	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10239855	ECommerce	B2B Marketplace for Distributors	Mumbai
+10239900	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10240168	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10240716	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10241719	Healthcare	Medical Tourism platform	Pune
+10242232	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10242512	Consumer Internet	Online Furniture Customization platform	Bangalore
+10242951	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10243838	Technology	Local language Mobile OS	Mumbai
+10244145	Consumer Internet	Hobby & Activity Class Aggregator	Mumbai
+10244756	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10245105	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10245428	Education	School Student admissions platform	New Delhi
+10245468	Healthcare	Professional Health Services Platform	Mumbai
+10246555	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10247561	E-commerce	Retail	Delhi
+10247682	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10247781	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10248529	Technology	Mobile & Cloud based App developer	New Delhi
+10249746	Consumer Internet	Curated Platform for Developers	Hyderabad
+10249859	eCommerce	Online Marketplace	Bangalore
+10250578	ECommerce	Specialty Tea ETailer	Siliguri
+10250955	eCommerce	Online Marketplace	Bangalore
+10251327	Consumer Internet	inter-city cab aggregator	New Delhi
+10253188	Technology	VR based Spiritual platform	Bangalore
+10253236	ECommerce	Home D?cor Product etailer	New Delhi
+10253736	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10254309	ECommerce	Women Fashion Portal	Bangalore
+10254346	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10254420	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10254466	Technology	Connected Smart Home Solutions	Bangalore
+10255501	Education	Children Education & Information platform	Gurgaon
+10255721	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10256203	Consumer Internet	Mobile Advertising App	Noida
+10256227	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10257220	ECommerce	Online Pet Store	Gurgaon
+10257236	ECommerce	Construction Material Marketplace	Bangalore
+10257316	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10257676	Technology	Real time data analytics & reporting	Bangalore
+10258195	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10258659	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10258713	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10258779	Healthcare	Healthcare Product Manufacturer	Bangalore
+10259741	Technology	Mobile App Analytics	Mumbai
+10259746	eCommerce	Solution provider for pet needs	Mumbai
+10259913	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10260000	Technology	Home Automation & Security Solutions	Bangalore
+10260208	Education	College Education Portal	New Delhi
+10260289	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10260453	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10260872			
+10261097	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10261636	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10262211	Consumer Internet	Smart Parking Platform	New Delhi
+10262269	Consumer Internet	P2P Messaging Service	New Delhi
+10262828	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10263264	Healthcare	Salons & Spa Chain	Gurgaon
+10263602	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10264470	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10264582	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10266464	ECommerce	B2B Marketplace for Distributors	Mumbai
+10267466	Logistics	Online freight aggregator	Bangalore
+10268341	Consumer Internet	Online lending platform	Bangalore
+10268384	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10268455	Consumer Internet	Mobile balance Checking App	Gurgaon
+10268533	Consumer Internet	Party Hall Booking platform	Bangalore
+10269441	ECommerce	Online Food Delivery Platform	Bangalore
+10270294	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10270418	Consumer Internet	Automobile Service Booking App	Bangalore
+10270516	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10270990	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10271050	Consumer Internet	SME Online Buying Hub	Gurgaon
+10271375	ECommerce	Online marketplace for cars	Mumbai
+10271683	ECommerce	Women Fashion Portal	Bangalore
+10271763	Consumer Internet	P2P Messaging Service	New Delhi
+10271898	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10272030	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10272410	Consumer Internet	Online Bike & Car Services provider	Chennai
+10272590	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10272733	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10272997	eCommerce	Solution provider for pet needs	Mumbai
+10273034	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10273445			
+10273555	ECommerce	Organic Food eTailer	Bangalore
+10274051	Technology	Real time data analytics & reporting	Bangalore
+10274663	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10274869	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10275177	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10276347	Education	College Education Portal	New Delhi
+10276495	Technology	Real time data analytics & reporting	Bangalore
+10276539	ECommerce	Online Rental Marketplace	Bangalore
+10276596	Education	College Education Portal	New Delhi
+10277146	Education	College Education Portal	New Delhi
+10277252	Consumer Internet	Online Payment Gateway	Mumbai
+10277766	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10278225	Consumer Internet	Co-Working Space Platform	New Delhi
+10278991	eCommerce	Online Marketplace	Bangalore
+10279114	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10280627	Consumer Internet	Online Bike & Car Services provider	Chennai
+10280691	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10280785			
+10280969	Healthcare	Salons & Spa Chain	Gurgaon
+10281189	Consumer Internet	Smart Parking Platform	New Delhi
+10281426	Consumer Internet	Co-Working Space Platform	New Delhi
+10281663	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10281773	Consumer Internet	Casual Gaming platform	New Delhi
+10282811	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10283518	Consumer Internet	Rental Bike Aggregator App	Noida
+10283610	ECommerce	Construction Material ETailer	Gurgaon
+10284441	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10284991	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10285168	Consumer Internet	inter-city cab aggregator	New Delhi
+10285232	Healthcare	Professional Health Services Platform	Mumbai
+10285314	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10286158	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10287501	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10287572	ECommerce	Online Food Delivery Platform	Bangalore
+10287904	Consumer Internet	Online Furniture Customization platform	Bangalore
+10287995	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10288361	Consumer Internet	Online Furniture Customization platform	Bangalore
+10288525	Technology	Mobile App Analytics	Mumbai
+10288528	Technology	Next Generation in-building connectivity	Bangalore
+10288550	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10289594	Consumer Internet	inter-city cab aggregator	New Delhi
+10289777	ECommerce	Online marketplace for cars	Mumbai
+10290949	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10292019	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10292095	Consumer Internet	DIY event registration and ticketing portal	Pune
+10292674	Consumer Internet	Photo Sharing for Groups	Bangalore
+10292804			
+10293858	Technology	Data Analytics platform	New Delhi
+10293884	Education	School Student admissions platform	New Delhi
+10293964	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10294347	Consumer Internet	Online Real Estate Portal	Mumbai
+10294357	Education	Child Disorder Information & Education	Bhopal
+10295213	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10295418	Consumer Internet	Deal Discovery App	Bangalore
+10295937	Consumer Internet	Online travel agent marketplace	Noida
+10298090	Logistics	Online freight aggregator	Bangalore
+10299359	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10300532	Technology	Decision Sciences Analytics Solutions	Bangalore
+10301296	Technology	Smartphone OS Developer	Bangalore
+10301849	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10302017	Technology	Data Intelligence & Analytics	Hyderabad
+10302369	Consumer Internet	Crowd Funding Platform	New Delhi
+10303365	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10303557	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10303590	ECommerce	Specialty Tea ETailer	Siliguri
+10303677	Technology	Data Intelligence & Analytics	Hyderabad
+10303885	Consumer Internet	Rental Bike Aggregator App	Noida
+10304498	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10304951	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10305080	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10305140	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10305811	ECommerce	Online Jewellery etailer	Bangalore
+10306136	Finance	Social Business Incubator & Fund	Chennai
+10306518	Consumer Internet	Parenting Social Network	Bangalore
+10306614	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10306681	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10307224	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10307279	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10307380	Finance	Online Lending	Ahmedabad
+10307396	ECommerce	Organic Food eTailer	Bangalore
+10307724	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10307927	Consumer Internet	Mobile Advertising App	Noida
+10308699	Technology	Car Rental Software Solutions	Noida
+10308896	Education	Career Planning and Education Advisory Platform	Mumbai
+10309307	Education	Career Planning and Education Advisory Platform	Mumbai
+10309744	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10310347	Consumer Internet	Mobile balance Checking App	Gurgaon
+10310483	Healthcare	Healthcare Product Manufacturer	Bangalore
+10310806	ECommerce	Online Grocery Store	Bangalore
+10312422	Technology	Financial Technology Research Platform	Bangalore
+10312447	ECommerce	Online Food Delivery Platform	Bangalore
+10312773	Consumer Internet	First Aid care app	Gurgaon
+10312950	Healthcare	Salons & Spa Chain	Gurgaon
+10313956	Consumer Internet	Interior Design Marketplace	New Delhi
+10314284	Education	Children Education & Information platform	Gurgaon
+10314614	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10314802	Consumer Internet	Crowd Funding Platform	New Delhi
+10315054	ECommerce	Adult Products Etailers	New Delhi / US
+10315812	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10315867	ECommerce	Online marketplace for cars	Mumbai
+10316104	Finance	Agricultural Loan	Chennai
+10316107	Healthcare	Medical Tourism platform	Pune
+10316450	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10317227	Consumer Internet	Mobile balance Checking App	Gurgaon
+10317276	Technology	Medical Devices	Surat
+10317386	Consumer Internet	Online Fantasy Games	Mumbai
+10317579	ECommerce	Construction Material ETailer	Gurgaon
+10317913	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10317923	Education	Mobile Based Education platform	Jaipur
+10318752	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10319227			
+10320300	Technology	Financial Technology Research Platform	Bangalore
+10320748	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10320799	Consumer Internet	Mobile based Referral Platform	Mumbai
+10321125	Consumer Internet	Online Counselling Platform	Mumbai
+10321220	Consumer Internet	Online Education Portal	Gurgaon
+10321507	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10321520	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10321851	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10321856	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10321967	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10322717	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10322887	Consumer Internet	DIY event registration and ticketing portal	Pune
+10323329	ECommerce	B2B Marketplace for Distributors	Mumbai
+10323714	eCommerce	Online Marketplace	Bangalore
+10324132	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10324279	Consumer Internet	Photo Sharing for Groups	Bangalore
+10324420	Technology	Connected Smart Home Solutions	Bangalore
+10324836	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10325001	ECommerce	Online Rental Marketplace	Bangalore
+10326626	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10327390	Consumer Internet	Mobile based Referral Platform	Mumbai
+10327497	Consumer Internet	Educational College Search platform	New Delhi
+10327630	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10327653	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10327655	Consumer Internet	Crowd Funding Platform	New Delhi
+10329044	Consumer Internet	Parenting Mobile App	New Delhi
+10329556	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10329564	Consumer Internet	Mobile Advertising App	Noida
+10330359	Consumer Internet	Online Bike & Car Services provider	Chennai
+10330733	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10331424	Consumer Interne	Medical Video Consultation platform	Bangalore
+10331622	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10333098	Healthcare	Healthcare Product Manufacturer	Bangalore
+10333396	Technology	Mobile & Cloud based App developer	New Delhi
+10334172	Education	Career Planning and Education Advisory Platform	Mumbai
+10334338	Consumer Internet	P2P Messaging Service	New Delhi
+10334855	Consumer Internet	Online Payment Gateway	Mumbai
+10335040	Technology	Electronic Payments Solution Company	Mumbai
+10335050	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10335588	Technology	Customer Engagement Platform	New Delhi
+10335599	Consumer Internet	Live Online Coaching Classes	New Delhi
+10335685	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10335835	Education	Mobile Based Education platform	Jaipur
+10336311	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10336390	ECommerce	Online platform for Higher Education Services	New Delhi
+10337112	Consumer Internet	healthcare aggregator platform	Mumbai
+10337837	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10339133	Technology	Connected Smart Home Solutions	Bangalore
+10340173	Consumer Internet	SME Online Buying Hub	Gurgaon
+10340434	Healthcare	Weigh Loss Coaching	Mumbai
+10340444	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10340882	Education	Mobile Based Education platform	Jaipur
+10342075	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10342534	Education	Career Planning and Education Advisory Platform	Mumbai
+10343561	eCommerce	Online Marketplace	Bangalore
+10343629	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10343923	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10343950	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10344238	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10344629	Consumer Internet	Online lending platform	Bangalore
+10345186	Education	School Student admissions platform	New Delhi
+10345212	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10345394	Finance	Agricultural Loan	Chennai
+10345414	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10345878	Consumer Internet	Online lending platform	Bangalore
+10346637	Entertainment	Digital Entertainment for Children	Mumbai
+10347474	Consumer Internet	Parenting Social Network	Bangalore
+10347556	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10348880	eCommerce	Solution provider for pet needs	Mumbai
+10349201	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10349655	Consumer Internet	Ride Sharing platform	Bangalore
+10350251	Healthcare	Weigh Loss Coaching	Mumbai
+10350348	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10350370	Education	School Student admissions platform	New Delhi
+10350962	Consumer Internet	Online match-making app	Bangalore
+10351345	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10352023	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10352249	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10352555	Consumer Internet	Online Counselling Platform	Mumbai
+10352744	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10352974	Consumer Internet	Online Furniture Customization platform	Bangalore
+10353048	Consumer Internet	Online Payment Gateway	Mumbai
+10353524	Consumer Internet	Automobile Service Booking App	Bangalore
+10353719	Consumer Internet	Smart Parking Platform	New Delhi
+10355005	Consumer Internet	healthcare aggregator platform	Mumbai
+10355626	Consumer Internet	Online Fantasy Games	Mumbai
+10355746	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10355766	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10355856	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10356090	Technology	Decision Sciences Analytics Solutions	Bangalore
+10356114	Consumer Internet	Carpooling Mobile App	Gurgaon
+10356394	Finance	Agricultural Loan	Chennai
+10356583	Consumer Internet	Online insurance policy aggregator	Noida
+10356922	Consumer Internet	Auto Classifieds Portal	Mumbai
+10357881	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10357970	Technology	Smartphone OS Developer	Bangalore
+10358230	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10358462	Consumer Internet	Carpooling Mobile App	Gurgaon
+10358804	Consumer Internet	Parenting Mobile App	New Delhi
+10358992	Finance	Social Business Incubator & Fund	Chennai
+10359211	ECommerce	Construction Material ETailer	Gurgaon
+10359364	Consumer Internet	Parenting Mobile App	New Delhi
+10359421	Consumer Interne	Medical Video Consultation platform	Bangalore
+10359653	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10359913	Technology	TV to Mobile audience Platform	Gurgaon
+10360103	Technology	Smartphone OS Developer	Bangalore
+10360303	Technology	Online Tutorial Marketplace	Bangalore
+10361235	Consumer Internet	Carpooling Mobile App	Gurgaon
+10362399	Consumer Internet	Interior Design Marketplace	New Delhi
+10363351	Finance	Agricultural Loan	Chennai
+10364660	Technology	Mobile & Cloud based App developer	New Delhi
+10364895	Technology	Real time data analytics & reporting	Bangalore
+10365114	Consumer Internet	Tech Enabler for Artists	Mumbai
+10365295	Technology	Home Automation & Security Solutions	Bangalore
+10365405	Consumer Internet	Online Education Portal	Gurgaon
+10365446	Education	Career Planning and Education Advisory Platform	Mumbai
+10365450	E-commerce	Food and Beverages	Bengaluru
+10365608	Healthcare	Healthcare Product Manufacturer	Bangalore
+10367344	Technology	Electronic Payments Solution Company	Mumbai
+10367742	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10367898	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10368161	Education	Career Planning and Education Advisory Platform	Mumbai
+10368250	Consumer Internet	Online Real Estate Portal	Mumbai
+10369027	ECommerce	Online Jewellery etailer	Bangalore
+10370063	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10370378	Education	School Student admissions platform	New Delhi
+10371051	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10371340	ECommerce	Specialty Tea ETailer	Siliguri
+10371883	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10372928	Technology	Decision Sciences Analytics Solutions	Bangalore
+10373036	Consumer Internet	SME Online Buying Hub	Gurgaon
+10373041	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10373235	Consumer Internet	Automobile Service Booking App	Bangalore
+10373692	ECommerce	Construction Material Marketplace	Bangalore
+10374538	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10376540	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10376773	ECommerce	ECommerce Marketplace	Gurgaon
+10377174	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10377259	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10377423	Consumer Internet	Tech Enabler for Artists	Mumbai
+10377458	ECommerce	B2B Marketplace for Distributors	Mumbai
+10377630	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10377651	Healthcare	Weigh Loss Coaching	Mumbai
+10378658	Healthcare	Salons & Spa Chain	Gurgaon
+10378721	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10378959			
+10379269	Consumer Internet	First Aid care app	Gurgaon
+10379690	ECommerce	Online Rental Marketplace	Bangalore
+10379860	Consumer Internet	Hobby & Activity Class Aggregator	Mumbai
+10380623	Healthcare	Professional Health Services Platform	Mumbai
+10381776	Consumer Internet	P2P Messaging Service	New Delhi
+10382196	Education	School Student admissions platform	New Delhi
+10382508	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10383270	Healthcare	Professional Health Services Platform	Mumbai
+10383528	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10383873	Consumer Internet	Automobile Service Booking App	Bangalore
+10384302	Education	School Student admissions platform	New Delhi
+10384372	Consumer Internet	Online lending platform	Bangalore
+10384708	Education	Child Disorder Information & Education	Bhopal
+10385123	Technology	Next Generation in-building connectivity	Bangalore
+10385127	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10385906	Consumer Internet	Food Delivery Platform	Hyderabad
+10386155	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10388174	Education	School Student admissions platform	New Delhi
+10388635	Technology	Next Generation in-building connectivity	Bangalore
+10388647	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10388664	Technology	Next Generation in-building connectivity	Bangalore
+10388731	eCommerce	Online Marketplace	Bangalore
+10389295	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10389457	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10389635	Technology	Online Tutorial Marketplace	Bangalore
+10389730	Technology	Connected Smart Home Solutions	Bangalore
+10390746	ECommerce	Online Pet Store	Gurgaon
+10390846	ECommerce	Organic Food eTailer	Bangalore
+10391882	Education	College Education Portal	New Delhi
+10393216	Consumer Internet	Automobile Service Booking App	Bangalore
+10394266	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10394330	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10394576	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10395150	Education	Mobile Based Education platform	Jaipur
+10395392	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10396339	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10396583	Technology	TV to Mobile audience Platform	Gurgaon
+10396675	Consumer Internet	Smart Parking Platform	New Delhi
+10396918	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10397935	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10398019	Education	Children Education & Information platform	Gurgaon
+10398315	Consumer Internet	Mobile app based Job Search	Noida
+10398536	eCommerce	Solution provider for pet needs	Mumbai
+10398537	Consumer Internet	Parenting Social Network	Bangalore
+10398977	Education	Career Planning and Education Advisory Platform	Mumbai
+10399653	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10399950	Consumer Internet	SME Online Buying Hub	Gurgaon
+10400424	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10401655	Education	Mobile Based Education platform	Jaipur
+10402158	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10403090	Consumer Internet	Auto Classifieds Portal	Mumbai
+10403371	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10403844	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10403929	Consumer Internet	Online Furniture Customization platform	Bangalore
+10404533	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10404797	Education	Mobile Based Education platform	Jaipur
+10405567	Consumer Internet	Parenting Mobile App	New Delhi
+10405621	Healthcare	Medical Tourism platform	Pune
+10406222	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10406907	Consumer Internet	Curated Platform for Developers	Hyderabad
+10407030	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10407193	Technology	Car Rental Software Solutions	Noida
+10407282	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10408040	Technology	Next Generation in-building connectivity	Bangalore
+10408316	Consumer Internet	Rental Bike Aggregator App	Noida
+10408385	Consumer Internet	Curated Platform for Developers	Hyderabad
+10408885	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10409740	Consumer Internet	Carpooling Mobile App	Gurgaon
+10409887	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10410006	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10410127	Consumer Internet	Parenting Mobile App	New Delhi
+10410260	ECommerce	Specialty Tea ETailer	Siliguri
+10410430	Consumer Internet	Mobile balance Checking App	Gurgaon
+10411012	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10411030	Consumer Internet	Automobile Service Booking App	Bangalore
+10411422	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10411647			
+10411907	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10412124	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10412246	ECommerce	Mobile Accessories etailer	New Delhi
+10412721	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10413231	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10413632	Technology	Aadhaar-based API provider	Pune
+10413695	Technology	Online Tutorial Marketplace	Bangalore
+10415466	Technology	Mobile & Cloud based App developer	New Delhi
+10415481	Consumer Internet	Online Fantasy Games	Mumbai
+10415699	Consumer Internet	Mobile app based Job Search	Noida
+10416004	Finance	Online Lending	Ahmedabad
+10416084	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10416925	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10417063	Healthcare	Salons & Spa Chain	Gurgaon
+10417420	Technology	Smartphone OS Developer	Bangalore
+10417566	Consumer Internet	Mobile balance Checking App	Gurgaon
+10418135	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10418273	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10419040	Consumer Internet	Rental Bike Aggregator App	Noida
+10419794	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10420193	ECommerce	B2B Marketplace for Distributors	Mumbai
+10420871	ECommerce	Women Fashion Portal	Bangalore
+10421772	Consumer Internet	Photo Sharing for Groups	Bangalore
+10421854	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10421986	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10422487	ECommerce	Online platform for Higher Education Services	New Delhi
+10423261	Technology	Electronic Payments Solution Company	Mumbai
+10423322	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10424474	Consumer Internet	Parenting Mobile App	New Delhi
+10424620	Technology	TV to Mobile audience Platform	Gurgaon
+10425071	Finance	Social Business Incubator & Fund	Chennai
+10425656	Consumer Internet	on-demand concierge services	Gurgaon
+10425892	Consumer Internet	P2P Messaging Service	New Delhi
+10426401	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10426535	Entertainment	Digital Entertainment for Children	Mumbai
+10427012	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10427157	ECommerce	B2B Marketplace for Distributors	Mumbai
+10427579	Healthcare	Weigh Loss Coaching	Mumbai
+10427918	Technology	Local language Mobile OS	Mumbai
+10429609	Healthcare	Medical Tourism platform	Pune
+10429667	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10430091	Technology	Financial Technology Research Platform	Bangalore
+10430728	ECommerce	Adult Products Etailers	New Delhi / US
+10431202	ECommerce	Online Food Delivery Platform	Bangalore
+10431763	Technology	Online Tutorial Marketplace	Bangalore
+10432460	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10432876	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10433893	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10435053	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10435109	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10435375	Technology	Data Intelligence & Analytics	Hyderabad
+10435997	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10436786	Consumer Internet	Live Online Coaching Classes	New Delhi
+10436923	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10438879	Consumer Internet	Automobile Service Booking App	Bangalore
+10438938	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10439491	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10439587	Consumer Internet	Photo Sharing for Groups	Bangalore
+10441336	Consumer Internet	Mobile based Referral Platform	Mumbai
+10441447	ECommerce	Online Jewellery etailer	Bangalore
+10441696	Healthcare	Weigh Loss Coaching	Mumbai
+10441849	Consumer Internet	Online insurance policy aggregator	Noida
+10442899	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10442916	Consumer Internet	Educational College Search platform	New Delhi
+10443205	Consumer Internet	Carpooling Mobile App	Gurgaon
+10443495	Logistics	Online freight aggregator	Bangalore
+10443956	Education	Children Education & Information platform	Gurgaon
+10444400	Technology	Online Tutorial Marketplace	Bangalore
+10444428	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10445013	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10446675	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10447176	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10447407	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10447715	Technology	Aadhaar-based API provider	Pune
+10447967	Technology	Medical Automation platform	Bangalore
+10448243	ECommerce	Online Rental Marketplace	Bangalore
+10449086	Healthcare	Professional Health Services Platform	Mumbai
+10449165	eCommerce	Online Marketplace	Bangalore
+10450029			
+10450290	Education	Career Planning and Education Advisory Platform	Mumbai
+10450438	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10450643	ECommerce	Online Jewellery etailer	Bangalore
+10451571	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10451781	ECommerce	Home D?cor Product etailer	New Delhi
+10451799	Finance	Online Lending	Pune
+10451840	Technology	Personal Assistant	Bengaluru
+10452352	ECommerce	Online Pet Store	Gurgaon
+10452437	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10452468	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10453014	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10453248	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10453358	E-commerce	Retail	Delhi
+10453466	Consumer Internet	Parenting Mobile App	New Delhi
+10453704	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10453886	Technology	Medical Devices	Surat
+10454073	Entertainment	Digital Entertainment for Children	Mumbai
+10454527	Consumer Internet	healthcare aggregator platform	Mumbai
+10455176	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10455190	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10455219	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10456138	ECommerce	Specialty Tea ETailer	Siliguri
+10456425	Consumer Internet	Mobile based Referral Platform	Mumbai
+10456682	Healthcare	Medical Tourism platform	Pune
+10456887	Entertainment	Digital Entertainment for Children	Mumbai
+10457095	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10457433	Consumer Interne	Medical Video Consultation platform	Bangalore
+10457545	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10457698	Technology	Next Generation in-building connectivity	Bangalore
+10457964	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10458637	Healthcare	Healthcare Product Manufacturer	Bangalore
+10458787	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10458850	ECommerce	Online Rental Marketplace	Bangalore
+10458950	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10459029	Consumer Internet	Online Real Estate Portal	Mumbai
+10459192	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10459596	Technology	Smartphone OS Developer	Bangalore
+10461188	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10461272	eCommerce	Solution provider for pet needs	Mumbai
+10461364	ECommerce	Mobile Accessories etailer	New Delhi
+10461573	Consumer Internet	Online Real Estate Portal	Mumbai
+10461801	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10462787	Finance	Online Lending	Pune
+10463224	Consumer Internet	Carpooling Mobile App	Gurgaon
+10463454	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10463501	ECommerce	Online Rental Marketplace	Bangalore
+10463680	Technology	Smartphone OS Developer	Bangalore
+10463923	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10463969	Consumer Internet	Rental Bike Aggregator App	Noida
+10464503	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10464682	Consumer Internet	Hobby & Activity Class Aggregator	Mumbai
+10465121	ECommerce	Online Rental Marketplace	Bangalore
+10466268	Consumer Internet	Live Online Coaching Classes	New Delhi
+10466367	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10468439	Logistics	Online freight aggregator	Bangalore
+10468870	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10469257	ECommerce	Online Rental Marketplace	Bangalore
+10469423	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10469645	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10470096	Consumer Internet	Ride Sharing platform	Bangalore
+10470464	ECommerce	Online Pet Store	Gurgaon
+10470780	Education	College Education Portal	New Delhi
+10471127	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10471620	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10471790	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10471997	Technology	Mobile App Analytics	Mumbai
+10472213	Consumer Internet	Party Hall Booking platform	Bangalore
+10473029	Technology	Decision Sciences Analytics Solutions	Bangalore
+10473421	Logistics	Online freight aggregator	Bangalore
+10473725	Consumer Internet	Party Hall Booking platform	Bangalore
+10473747	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10474570	Consumer Internet	Parenting Social Network	Bangalore
+10475476	ECommerce	Organic Food eTailer	Bangalore
+10476166	Technology	Decision Sciences Analytics Solutions	Bangalore
+10476245	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10476530	Technology	Aadhaar-based API provider	Pune
+10476957	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10477114	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10477492	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10477511	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10477751	Technology	Car Rental Software Solutions	Noida
+10478413	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10478530	Consumer Internet	inter-city cab aggregator	New Delhi
+10478544	Technology	Real time data analytics & reporting	Bangalore
+10478647	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10478756	Technology	Smartphone OS Developer	Bangalore
+10478959	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10479230	Consumer Internet	Mobile Advertising App	Noida
+10480244	Technology	Home Automation & Security Solutions	Bangalore
+10480971	Technology	Expense Management Solution	Bangalore
+10480982	Finance	Agricultural Loan	Chennai
+10481662	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10481804	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10482143	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10482409	Consumer Internet	Ride Sharing platform	Bangalore
+10482480	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10483280	E-commerce	Retail	Delhi
+10483875	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10484628	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10484690	Technology	VR based Spiritual platform	Bangalore
+10485468	Consumer Internet	Tech Enabler for Artists	Mumbai
+10485992	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10486982	Technology	Electronic Payments Solution Company	Mumbai
+10487119	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10487157	ECommerce	Online Jewellery etailer	Bangalore
+10487357	ECommerce	ECommerce Marketplace	Gurgaon
+10487462	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10487560	Healthcare	Salons & Spa Chain	Gurgaon
+10487655	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10487797	ECommerce	Online Grocery Store	Bangalore
+10488146	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10488225	Consumer Internet	Food Delivery Platform	Hyderabad
+10488619	Technology	TV to Mobile audience Platform	Gurgaon
+10488690	Finance	Startup Crowd-funding platform	Mumbai
+10489096	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10489526	Consumer Internet	Carpooling Mobile App	Gurgaon
+10489616	Technology	Personal Assistant	Bengaluru
+10490693	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10490838	Finance	Social Business Incubator & Fund	Chennai
+10490951	Technology	Online Tutorial Marketplace	Bangalore
+10491091	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10491982	Consumer Internet	Hobby & Activity Class Aggregator	Mumbai
+10492007	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10492169	Consumer Internet	Casual Gaming platform	New Delhi
+10492585	Finance	Agricultural Loan	Chennai
+10493096	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10493107	Technology	Online Tutorial Marketplace	Bangalore
+10493263	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10493578	Consumer Internet	Mobile based Referral Platform	Mumbai
+10495245	ECommerce	Home D?cor Product etailer	New Delhi
+10495511	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10496132	Technology	Aadhaar-based API provider	Pune
+10496296	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10496422	ECommerce	Specialty Tea ETailer	Siliguri
+10496662	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10496681	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10497072	Consumer Internet	Curated Platform for Developers	Hyderabad
+10497210	ECommerce	Kids Focused eTailer	Pune
+10497244	Technology	Data Analytics platform	New Delhi
+10499063	Consumer Internet	inter-city cab aggregator	New Delhi
+10499597	ECommerce	ECommerce Marketplace	Gurgaon
+10500682	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10500779	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10501444	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10501454	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10501775	Finance	Agricultural Loan	Chennai
+10502077	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10502322	Consumer Internet	Co-Working Space Platform	New Delhi
+10502600	Consumer Internet	Online lending platform	Bangalore
+10502699	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10502797	Consumer Interne	Medical Video Consultation platform	Bangalore
+10503445	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10504261	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10504516	ECommerce	Organic Food eTailer	Bangalore
+10505642	Consumer Internet	on-demand concierge services	Gurgaon
+10506208	Consumer Internet	First Aid care app	Gurgaon
+10506666	Consumer Internet	Ride Sharing platform	Bangalore
+10507506	Consumer Internet	Parenting Social Network	Bangalore
+10508492	Technology	VR based Spiritual platform	Bangalore
+10509472	ECommerce	Kids Focused eTailer	Pune
+10509681	Technology	Mobile & Cloud based App developer	New Delhi
+10509855	Healthcare	Weigh Loss Coaching	Mumbai
+10509937	Finance	Online Lending	Ahmedabad
+10510512	ECommerce	Home D?cor Product etailer	New Delhi
+10510772	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10511173	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10511202	Consumer Internet	Personal Finance Mobile App	Bangalore
+10511249	Consumer Internet	SME Online Buying Hub	Gurgaon
+10511549	ECommerce	ECommerce Marketplace	Gurgaon
+10512568	Consumer Internet	Live Online Coaching Classes	New Delhi
+10513041	Consumer Internet	Crowd Funding Platform	New Delhi
+10513046	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10513839	Consumer Internet	Mobile Advertising App	Noida
+10514184	Consumer Internet	inter-city cab aggregator	New Delhi
+10514787	Healthcare	Weigh Loss Coaching	Mumbai
+10515036	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10515169	Finance	Online Lending	Pune
+10515222	ECommerce	Organic Food eTailer	Bangalore
+10515742	Consumer Internet	Mobile balance Checking App	Gurgaon
+10516001	Technology	Car Rental Software Solutions	Noida
+10516107	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10516271	Technology	Personal Assistant	Bengaluru
+10516458	Technology	Data Intelligence & Analytics	Hyderabad
+10516559	E-commerce	Food and Beverages	Bengaluru
+10516749	ECommerce	ECommerce Marketplace	Gurgaon
+10516968	Healthcare	Medical Tourism platform	Pune
+10517427	Finance	Online Lending	Pune
+10518073	Technology	Smartphone OS Developer	Bangalore
+10518219	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10518958	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10519389	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10519552	Consumer Internet	Personal Finance Mobile App	Bangalore
+10519558	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10519613	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10520656	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10520698	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10520708	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10521108	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10521256	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10521474	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10521560	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10522281	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10522347	ECommerce	Online Grocery Store	Bangalore
+10522640	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10522651	Consumer Internet	Auto Classifieds Portal	Mumbai
+10522852	Technology	Medical Devices	Surat
+10523085	eCommerce	Online Marketplace	Bangalore
+10523344	Technology	Medical Devices	Surat
+10523857	ECommerce	Online Jewellery etailer	Bangalore
+10524392	Logistics	Online freight aggregator	Bangalore
+10524742	ECommerce	Online Jewellery etailer	Bangalore
+10524989	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10525324	Technology	VR based Spiritual platform	Bangalore
+10525551	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10526656	ECommerce	Specialty Tea ETailer	Siliguri
+10527271	Consumer Internet	Online Payment Gateway	Mumbai
+10527556	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10528454	Consumer Internet	Live Online Coaching Classes	New Delhi
+10529234	Consumer Internet	Parenting Social Network	Bangalore
+10530184	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10530247	Technology	Data Intelligence & Analytics	Hyderabad
+10530393	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10530403			
+10530461	Technology	VR based Spiritual platform	Bangalore
+10530926	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10530977	ECommerce	Adult Products Etailers	New Delhi / US
+10531156	Technology	Connected Smart Home Solutions	Bangalore
+10531578	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10531630	Consumer Internet	Auto Classifieds Portal	Mumbai
+10531687	Consumer Internet	Personal Finance Mobile App	Bangalore
+10532306	Technology	Real time data analytics & reporting	Bangalore
+10532837	Consumer Internet	inter-city cab aggregator	New Delhi
+10532851	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10533125	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10533402	Technology	Mobile & Cloud based App developer	New Delhi
+10533491	Technology	TV to Mobile audience Platform	Gurgaon
+10533515	ECommerce	Organic Food eTailer	Bangalore
+10533658	Education	Mobile Based Education platform	Jaipur
+10534233	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10534502	Consumer Internet	Online Bike & Car Services provider	Chennai
+10534642	Consumer Internet	Auto Classifieds Portal	Mumbai
+10534738	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10534849	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10535162	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10535862	ECommerce	Online Jewellery etailer	Bangalore
+10535910	Consumer Internet	P2P Messaging Service	New Delhi
+10535910	ECommerce	B2B Marketplace for Distributors	Mumbai
+10536313	Healthcare	Professional Health Services Platform	Mumbai
+10536737	Consumer Internet	Automobile Service Booking App	Bangalore
+10537031	Consumer Internet	Auto Classifieds Portal	Mumbai
+10537854	ECommerce	Adult Products Etailers	New Delhi / US
+10538363	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10538690	ECommerce	Construction Material ETailer	Gurgaon
+10538843	Consumer Internet	Casual Gaming platform	New Delhi
+10538941	Finance	Agricultural Loan	Chennai
+10539345	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10539819	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10540671	Consumer Internet	Curated Platform for Developers	Hyderabad
+10541320	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10541346	ECommerce	Women Fashion Portal	Bangalore
+10541638	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10541859	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10542042	Technology	Medical Devices	Surat
+10542958	Consumer Internet	Parenting Social Network	Bangalore
+10543116	Technology	VR based Spiritual platform	Bangalore
+10543981	Technology	Decision Sciences Analytics Solutions	Bangalore
+10544537	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10544567	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10545119	Technology	Smartphone OS Developer	Bangalore
+10545349	Technology	Medical Automation platform	Bangalore
+10545502	Finance	Online Lending	Ahmedabad
+10546542	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10547285	Entertainment	Digital Entertainment for Children	Mumbai
+10547385	Technology	Online Tutorial Marketplace	Bangalore
+10547642	Consumer Interne	Medical Video Consultation platform	Bangalore
+10547664	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10549245	Technology	Real time data analytics & reporting	Bangalore
+10549784	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10550251	Consumer Internet	Online Counselling Platform	Mumbai
+10550989	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10551775	ECommerce	Online Food Delivery Platform	Bangalore
+10553969	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10554687	Consumer Internet	Ride Sharing platform	Bangalore
+10554759	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10554759	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10554785	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10555991	Technology	Decision Sciences Analytics Solutions	Bangalore
+10556158	Technology	Next Generation in-building connectivity	Bangalore
+10556222	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10556554	Consumer Internet	Casual Gaming platform	New Delhi
+10556561	Consumer Internet	Online Real Estate Portal	Mumbai
+10556921	Healthcare	Healthcare Product Manufacturer	Bangalore
+10557162	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10557323	Technology	Smartphone OS Developer	Bangalore
+10558086	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10559389	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10559798	Education	College Education Portal	New Delhi
+10560289	Technology	Connected Smart Home Solutions	Bangalore
+10560450	Consumer Internet	Online Payment Gateway	Mumbai
+10561482	Consumer Internet	Ride Sharing platform	Bangalore
+10561572	Education	Child Disorder Information & Education	Bhopal
+10561628			
+10562134	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10562825	Healthcare	Salons & Spa Chain	Gurgaon
+10562846	Consumer Internet	Deal Discovery App	Bangalore
+10562950	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10562953	ECommerce	Construction Material ETailer	Gurgaon
+10563052	Consumer Internet	inter-city cab aggregator	New Delhi
+10563056	E-commerce	Retail	Delhi
+10563235	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10563704	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10563741	Technology	Connected Smart Home Solutions	Bangalore
+10564620	Consumer Internet	Carpooling Mobile App	Gurgaon
+10565597	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10565629	ECommerce	Online marketplace for cars	Mumbai
+10565890	ECommerce	Organic Food eTailer	Bangalore
+10565967	Healthcare	Weigh Loss Coaching	Mumbai
+10566004	Education	College Education Portal	New Delhi
+10566916	Consumer Internet	Personal Finance Mobile App	Bangalore
+10567077	ECommerce	Organic Food eTailer	Bangalore
+10567283	Consumer Internet	Online Fantasy Games	Mumbai
+10567303	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10567540	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10567734	Consumer Internet	Parenting Mobile App	New Delhi
+10567849	Consumer Internet	Online travel agent marketplace	Noida
+10568701	ECommerce	Home D?cor Product etailer	New Delhi
+10568826	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10569098	Consumer Internet	First Aid care app	Gurgaon
+10569654	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10569830	ECommerce	Online Food Delivery Platform	Bangalore
+10569918	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10570633	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10571237	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10571727	Consumer Internet	Online Furniture Customization platform	Bangalore
+10571999	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10572498	ECommerce	Online platform for Higher Education Services	New Delhi
+10572518	ECommerce	Mobile Accessories etailer	New Delhi
+10572742	Education	Career Planning and Education Advisory Platform	Mumbai
+10572816	Consumer Interne	Medical Video Consultation platform	Bangalore
+10573374	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10573471	Consumer Internet	Online Real Estate Portal	Mumbai
+10573790	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10575581	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10576090	Technology	Mobile App Analytics	Mumbai
+10576179	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10576350	Consumer Internet	Crowd Funding Platform	New Delhi
+10576500			
+10576911	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10577104	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10577136	ECommerce	Construction Material ETailer	Gurgaon
+10577492	Technology	Local language Mobile OS	Mumbai
+10577697	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10578409	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10579034	Technology	Personal Assistant	Bengaluru
+10579532	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10579577	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10580148	ECommerce	Kids Focused eTailer	Pune
+10580355	Technology	Customer Engagement Platform	New Delhi
+10581410	Technology	Hotel Management Solution	Kolkata
+10581975	ECommerce	Organic Food eTailer	Bangalore
+10582380	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10582418	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10582525	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10582537	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10582618	Technology	Next Generation in-building connectivity	Bangalore
+10582701			
+10583203	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10583243	Finance	Social Business Incubator & Fund	Chennai
+10583489	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10583547	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10583588	Consumer Internet	Rental Bike Aggregator App	Noida
+10583692	Consumer Internet	on-demand concierge services	Gurgaon
+10583799	Consumer Internet	Online Furniture Customization platform	Bangalore
+10585826	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10586414	Technology	Mobile & Cloud based App developer	New Delhi
+10586741	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10586935	Consumer Internet	Smart Parking Platform	New Delhi
+10587170	Education	School Student admissions platform	New Delhi
+10587451	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10587880	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10588074	Technology	Mobile & Cloud based App developer	New Delhi
+10588745	ECommerce	Online Jewellery etailer	Bangalore
+10589366	Consumer Internet	Casual Gaming platform	New Delhi
+10589372	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10589616	Education	Children Education & Information platform	Gurgaon
+10590077	Consumer Internet	SME Online Buying Hub	Gurgaon
+10590228	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10590442	Technology	Customer Engagement Platform	New Delhi
+10590535	Technology	Car Rental Software Solutions	Noida
+10591000	Education	Children Education & Information platform	Gurgaon
+10591251	ECommerce	Home D?cor Product etailer	New Delhi
+10591676	ECommerce	Online Pet Store	Gurgaon
+10591816	Technology	Decision Sciences Analytics Solutions	Bangalore
+10592121	Technology	Hotel Management Solution	Kolkata
+10592736	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10593030	Finance	Social Business Incubator & Fund	Chennai
+10593297	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10593324	Consumer Internet	Parenting Mobile App	New Delhi
+10593631	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10593667	Consumer Internet	Mobile balance Checking App	Gurgaon
+10593762	Technology	Decision Sciences Analytics Solutions	Bangalore
+10594356	Technology	Online Tutorial Marketplace	Bangalore
+10595071	Consumer Internet	Live Online Coaching Classes	New Delhi
+10596048	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10596254	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10597597	Consumer Internet	Mobile app based Job Search	Noida
+10597738	Technology	Decision Sciences Analytics Solutions	Bangalore
+10598241	Consumer Interne	Medical Video Consultation platform	Bangalore
+10599044	eCommerce	Online Marketplace	Bangalore
+10599126	Consumer Internet	Deal Discovery App	Bangalore
+10599807	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10599967	Consumer Internet	Deal Discovery App	Bangalore
+10599986	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10600166	Consumer Internet	Online Education Portal	Gurgaon
+10600483	ECommerce	Mobile Accessories etailer	New Delhi
+10600814	Consumer Internet	Crowd Funding Platform	New Delhi
+10601038	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10601163	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10602686	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10602775	Consumer Internet	inter-city cab aggregator	New Delhi
+10602820	Consumer Internet	Automobile Service Booking App	Bangalore
+10602912			
+10602948	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10603466	Consumer Internet	First Aid care app	Gurgaon
+10604678	Consumer Internet	inter-city cab aggregator	New Delhi
+10607414	ECommerce	Home D?cor Product etailer	New Delhi
+10607941	Consumer Internet	Crowd Funding Platform	New Delhi
+10608494	Logistics	Online freight aggregator	Bangalore
+10608588	ECommerce	B2B Marketplace for Distributors	Mumbai
+10609717	Consumer Internet	SME Online Buying Hub	Gurgaon
+10609954	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10610008	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10610610	Consumer Internet	Automobile Service Booking App	Bangalore
+10611589	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10611725	ECommerce	Kids Focused eTailer	Pune
+10611957	ECommerce	ECommerce Marketplace	Gurgaon
+10612041	Finance	Online Lending	Pune
+10612045	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10612762	Technology	Local language Mobile OS	Mumbai
+10613493	Consumer Internet	Mobile app based Job Search	Noida
+10614193	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10614381	Consumer Internet	Tech Enabler for Artists	Mumbai
+10615227	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10616199	Technology	Medical Automation platform	Bangalore
+10617035	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10617148	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10617281	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10617720	ECommerce	Online Rental Marketplace	Bangalore
+10617732	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10618080	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10619157	Consumer Interne	Medical Video Consultation platform	Bangalore
+10619343	Technology	TV to Mobile audience Platform	Gurgaon
+10619624	ECommerce	Adult Products Etailers	New Delhi / US
+10619918	Consumer Internet	Smart Parking Platform	New Delhi
+10620945	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10621390	Consumer Interne	Medical Video Consultation platform	Bangalore
+10622256	Technology	Connected Smart Home Solutions	Bangalore
+10622411	Consumer Internet	on-demand concierge services	Gurgaon
+10622710	Technology	Data Analytics platform	New Delhi
+10622781	ECommerce	Mobile Accessories etailer	New Delhi
+10622787	Technology	Data Analytics platform	New Delhi
+10622867	Consumer Internet	Online Furniture Customization platform	Bangalore
+10622909	ECommerce	Online Rental Marketplace	Bangalore
+10623822	Consumer Internet	DIY event registration and ticketing portal	Pune
+10624914	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10625032	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10625761	Education	College Education Portal	New Delhi
+10625792	ECommerce	ECommerce Marketplace	Gurgaon
+10625989	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10626001	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10626260	E-commerce	Retail	Delhi
+10626442	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10627008	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10627729	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10628339	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10628466	Consumer Internet	healthcare aggregator platform	Mumbai
+10628687	ECommerce	Online Jewellery etailer	Bangalore
+10628773	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10629024	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10629046	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10629106	Consumer Internet	Food Delivery Platform	Hyderabad
+10629334	Consumer Internet	on-demand concierge services	Gurgaon
+10630619	Consumer Internet	Online Education Portal	Gurgaon
+10632185	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10632904	Consumer Internet	Deal Discovery App	Bangalore
+10633775	Healthcare	Professional Health Services Platform	Mumbai
+10634098	Consumer Internet	Deal Discovery App	Bangalore
+10634438	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10634760	Consumer Internet	Rental Bike Aggregator App	Noida
+10634801	Consumer Internet	P2P Messaging Service	New Delhi
+10635832	Consumer Internet	Educational College Search platform	New Delhi
+10636102	Entertainment	Digital Entertainment for Children	Mumbai
+10636486	Consumer Internet	Tech Enabler for Artists	Mumbai
+10637316	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10637778	Technology	Home Automation & Security Solutions	Bangalore
+10637828	Consumer Internet	Automobile Service Booking App	Bangalore
+10638864	Technology	Online Tutorial Marketplace	Bangalore
+10639185	Finance	Social Business Incubator & Fund	Chennai
+10639352	Entertainment	Digital Entertainment for Children	Mumbai
+10639555	Education	Child Disorder Information & Education	Bhopal
+10639792	Consumer Internet	Parenting Mobile App	New Delhi
+10640883	eCommerce	Online Marketplace	Bangalore
+10641324	Technology	VR based Spiritual platform	Bangalore
+10641865	ECommerce	Kids Focused eTailer	Pune
+10642326	Technology	Home Automation & Security Solutions	Bangalore
+10642402	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10642706	ECommerce	Kids Focused eTailer	Pune
+10642776	Consumer Internet	Carpooling Mobile App	Gurgaon
+10643434	Consumer Internet	Curated Platform for Developers	Hyderabad
+10643544	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10644814	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10645349	Healthcare	Healthcare Product Manufacturer	Bangalore
+10645565	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10646451	Technology	Online Tutorial Marketplace	Bangalore
+10646785	ECommerce	Online Rental Marketplace	Bangalore
+10647271	Technology	Home Automation & Security Solutions	Bangalore
+10647514	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10647945	Technology	Online Tutorial Marketplace	Bangalore
+10648131	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10648336	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10648425	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10648584	Finance	Online Lending	Pune
+10648831	Consumer Internet	Mobile app based Job Search	Noida
+10649171	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10649404	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10649462	Logistics	Online freight aggregator	Bangalore
+10650569	Consumer Internet	Personal Finance Mobile App	Bangalore
+10650666	Consumer Internet	Mobile based Referral Platform	Mumbai
+10650941	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10651418	Consumer Internet	Interior Design Marketplace	New Delhi
+10651898	Consumer Internet	on-demand concierge services	Gurgaon
+10652757	Finance	Online Lending	Pune
+10653165	Technology	Financial Technology Research Platform	Bangalore
+10653342	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10653527	Education	Child Disorder Information & Education	Bhopal
+10653779	Consumer Internet	Mobile Advertising App	Noida
+10655284	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10655978	Consumer Internet	Ride Sharing platform	Bangalore
+10656631	Technology	Next Generation in-building connectivity	Bangalore
+10656699	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10656814	eCommerce	Online Marketplace	Bangalore
+10657168	Consumer Internet	Crowd Funding Platform	New Delhi
+10657298	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10657579	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10657980	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10658991	Education	Children Education & Information platform	Gurgaon
+10659011	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10659452	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10659537	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10659879	Technology	Medical Devices	Surat
+10659948	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10660243	Finance	Social Business Incubator & Fund	Chennai
+10660411	Consumer Internet	Carpooling Mobile App	Gurgaon
+10660582	Consumer Internet	Parenting Social Network	Bangalore
+10660723	Consumer Internet	Party Hall Booking platform	Bangalore
+10660884	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10661675	Technology	Online Tutorial Marketplace	Bangalore
+10663485	Consumer Internet	Smart Parking Platform	New Delhi
+10663753	Consumer Internet	Mobile based Referral Platform	Mumbai
+10663757	ECommerce	Online Jewellery etailer	Bangalore
+10664206	Consumer Internet	Personal Finance Mobile App	Bangalore
+10664373	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10665013	ECommerce	Adult Products Etailers	New Delhi / US
+10665175	ECommerce	Adult Products Etailers	New Delhi / US
+10665198	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10666058	Consumer Internet	Online Furniture Customization platform	Bangalore
+10666440	Technology	Local language Mobile OS	Mumbai
+10666698	Consumer Internet	Online insurance policy aggregator	Noida
+10666773	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10667321	Consumer Internet	Crowd Funding Platform	New Delhi
+10667361	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10667420	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10667916	Education	Children Education & Information platform	Gurgaon
+10668089			
+10668591	Technology	Electronic Payments Solution Company	Mumbai
+10668878	Technology	Data Analytics platform	New Delhi
+10669277	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10669683	Consumer Internet	Live Online Coaching Classes	New Delhi
+10670010	Consumer Internet	Educational College Search platform	New Delhi
+10670705	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10670945	ECommerce	B2B Marketplace for Distributors	Mumbai
+10671006	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10672239	Consumer Internet	Photo Sharing for Groups	Bangalore
+10672635	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10672816	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10672916	Consumer Internet	Mobile based Referral Platform	Mumbai
+10673010	Consumer Internet	Online Furniture Customization platform	Bangalore
+10673155	ECommerce	Online platform for Higher Education Services	New Delhi
+10673862	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10674470	ECommerce	Home D?cor Product etailer	New Delhi
+10674482	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10675586			
+10678644	Technology	Local language Mobile OS	Mumbai
+10679416	Consumer Internet	Mobile based Referral Platform	Mumbai
+10679608	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10679674	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10680003	Finance	Startup Crowd-funding platform	Mumbai
+10680055	Consumer Internet	Mobile balance Checking App	Gurgaon
+10680166	Consumer Interne	Medical Video Consultation platform	Bangalore
+10680364	Finance	Online Lending	Ahmedabad
+10680445	Healthcare	Weigh Loss Coaching	Mumbai
+10681007	Consumer Internet	Live Online Coaching Classes	New Delhi
+10681415	Healthcare	Weigh Loss Coaching	Mumbai
+10681936	Consumer Internet	Automobile Service Booking App	Bangalore
+10682532	Technology	Car Rental Software Solutions	Noida
+10682625	Consumer Internet	Online Education Portal	Gurgaon
+10682641	Consumer Interne	Medical Video Consultation platform	Bangalore
+10682747	E-commerce	Food and Beverages	Bengaluru
+10682985	Consumer Internet	Mobile based Referral Platform	Mumbai
+10683083	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10683260	Consumer Internet	P2P Messaging Service	New Delhi
+10683339	ECommerce	Kids Focused eTailer	Pune
+10683363	Consumer Internet	Mobile Advertising App	Noida
+10683655	Consumer Internet	Personal Finance Mobile App	Bangalore
+10683737	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10684066	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10684558	ECommerce	Mobile Accessories etailer	New Delhi
+10685056	Technology	TV to Mobile audience Platform	Gurgaon
+10685246	Finance	Startup Crowd-funding platform	Mumbai
+10685591	Consumer Internet	Mobile Advertising App	Noida
+10685741	ECommerce	ECommerce Marketplace	Gurgaon
+10685875	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10686165	ECommerce	Online platform for Higher Education Services	New Delhi
+10687084	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10689073	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10689188	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10689546	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10690481	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10690806	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10691126	Healthcare	Medical Tourism platform	Pune
+10691443	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10691799	Finance	Online Lending	Ahmedabad
+10691854	Consumer Internet	First Aid care app	Gurgaon
+10691865	Technology	Personal Assistant	Bengaluru
+10693166	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10693342	E-commerce	Retail	Delhi
+10693488	ECommerce	B2B Marketplace for Distributors	Mumbai
+10694609	Consumer Internet	Hobby & Activity Class Aggregator	Mumbai
+10695070	Technology	Electronic Payments Solution Company	Mumbai
+10695277	Consumer Internet	Smart Parking Platform	New Delhi
+10695693	Technology	Next Generation in-building connectivity	Bangalore
+10695707	Consumer Internet	inter-city cab aggregator	New Delhi
+10696536	Technology	TV to Mobile audience Platform	Gurgaon
+10696961	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10697262	ECommerce	Construction Material Marketplace	Bangalore
+10697730	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10698411	ECommerce	Specialty Tea ETailer	Siliguri
+10698437	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10698685	Technology	Real time data analytics & reporting	Bangalore
+10698925	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10699530	Education	Child Disorder Information & Education	Bhopal
+10699989	Technology	Local language Mobile OS	Mumbai
+10700440	ECommerce	Organic Food eTailer	Bangalore
+10700848	Technology	Expense Management Solution	Bangalore
+10701772	Technology	Hotel Management Solution	Kolkata
+10703253	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10703470	Finance	Startup Crowd-funding platform	Mumbai
+10703575	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10704574	Technology	Home Automation & Security Solutions	Bangalore
+10704651	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10704679	Consumer Internet	Mobile based Referral Platform	Mumbai
+10705145	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10705251	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10705270	Education	Career Planning and Education Advisory Platform	Mumbai
+10705659	Consumer Internet	Online Education Portal	Gurgaon
+10706025	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10706616	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10707326	Education	School Student admissions platform	New Delhi
+10707778	Consumer Internet	Rental Bike Aggregator App	Noida
+10709203	Consumer Internet	Online insurance policy aggregator	Noida
+10709447	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10709560	ECommerce	Online Pet Store	Gurgaon
+10709758	Consumer Internet	Online Counselling Platform	Mumbai
+10710047	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10710858	Consumer Internet	SME Online Buying Hub	Gurgaon
+10711305	Education	Children Education & Information platform	Gurgaon
+10711491	ECommerce	Online Food Delivery Platform	Bangalore
+10711669	Education	School Student admissions platform	New Delhi
+10711979	eCommerce	Solution provider for pet needs	Mumbai
+10712076	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10712651	Finance	Online Lending	Pune
+10712728	Technology	Medical Devices	Surat
+10713704	Education	Mobile Based Education platform	Jaipur
+10713800	Consumer Interne	Medical Video Consultation platform	Bangalore
+10714915	Technology	Data Analytics platform	New Delhi
+10714917	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10715253	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10715345	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10715355	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10715790	Education	School Student admissions platform	New Delhi
+10716620	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10717157	Consumer Internet	Mobile Advertising App	Noida
+10717436	Consumer Internet	Parenting Mobile App	New Delhi
+10717642	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10718321	ECommerce	Construction Material ETailer	Gurgaon
+10718859	ECommerce	Construction Material Marketplace	Bangalore
+10719645	Education	Mobile Based Education platform	Jaipur
+10720147	Consumer Internet	Mobile based Referral Platform	Mumbai
+10720564	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10721853	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10722016	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10722177	Healthcare	Weigh Loss Coaching	Mumbai
+10722204	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10722261	ECommerce	Online Food Delivery Platform	Bangalore
+10722304	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10723284	ECommerce	Mobile Accessories etailer	New Delhi
+10723988	Healthcare	Medical Tourism platform	Pune
+10724706	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10724960	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10725629	Technology	Customer Engagement Platform	New Delhi
+10726175	Technology	Local language Mobile OS	Mumbai
+10727801	Consumer Internet	Online travel agent marketplace	Noida
+10727802	ECommerce	Construction Material Marketplace	Bangalore
+10729107	Consumer Internet	Educational College Search platform	New Delhi
+10729271	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10729678	Consumer Internet	Party Hall Booking platform	Bangalore
+10729876	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10730106	Technology	Next Generation in-building connectivity	Bangalore
+10730268	Consumer Internet	inter-city cab aggregator	New Delhi
+10730689	Technology	Hotel Management Solution	Kolkata
+10730857	Consumer Internet	Online Counselling Platform	Mumbai
+10730885	ECommerce	Women Fashion Portal	Bangalore
+10731166	Technology	Data Intelligence & Analytics	Hyderabad
+10731939			
+10732622	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10733751	Technology	Hotel Management Solution	Kolkata
+10734357	Technology	Home Automation & Security Solutions	Bangalore
+10734546	Technology	Home Automation & Security Solutions	Bangalore
+10734707	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10735146	Consumer Internet	Auto Classifieds Portal	Mumbai
+10735244	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10735583	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10736245	Consumer Internet	inter-city cab aggregator	New Delhi
+10736370	Education	Career Planning and Education Advisory Platform	Mumbai
+10737142	Consumer Internet	Interior Design Marketplace	New Delhi
+10737226	Consumer Internet	Mobile balance Checking App	Gurgaon
+10737575	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10738190	Technology	Home Automation & Security Solutions	Bangalore
+10738278	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10738280	ECommerce	Organic Food eTailer	Bangalore
+10738478	Finance	Social Business Incubator & Fund	Chennai
+10738637	Consumer Internet	inter-city cab aggregator	New Delhi
+10738728	Technology	Online Tutorial Marketplace	Bangalore
+10738789	Technology	Expense Management Solution	Bangalore
+10739322	Technology	Mobile & Cloud based App developer	New Delhi
+10739718	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10740478	Consumer Internet	Personal Finance Mobile App	Bangalore
+10740776	Healthcare	Salons & Spa Chain	Gurgaon
+10740779	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10740900	Consumer Internet	Online travel agent marketplace	Noida
+10741471	Technology	Connected Smart Home Solutions	Bangalore
+10741491	Consumer Internet	Photo Sharing for Groups	Bangalore
+10741561	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10742176	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10743341	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10743485	Consumer Internet	Interior Design Marketplace	New Delhi
+10743907	Logistics	Online freight aggregator	Bangalore
+10744030	ECommerce	Specialty Tea ETailer	Siliguri
+10744436	Education	Career Planning and Education Advisory Platform	Mumbai
+10744604	Consumer Internet	Mobile based Referral Platform	Mumbai
+10744651	Finance	Agricultural Loan	Chennai
+10744763	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10745766	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10747480	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10747667	Consumer Internet	Parenting Social Network	Bangalore
+10747815	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10748403	ECommerce	Online marketplace for cars	Mumbai
+10748581	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10748651	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10748916	Technology	Connected Smart Home Solutions	Bangalore
+10749180	Finance	Social Business Incubator & Fund	Chennai
+10750108	ECommerce	Specialty Tea ETailer	Siliguri
+10750174	Consumer Internet	inter-city cab aggregator	New Delhi
+10750187			
+10750531	ECommerce	Construction Material Marketplace	Bangalore
+10751217	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10751394	Finance	Startup Crowd-funding platform	Mumbai
+10751595	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10752155	Consumer Internet	Online Fitness & Educational information Aggregator	Jodhpur
+10752249	E-commerce	Food and Beverages	Bengaluru
+10752350	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10752592	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10753174	Consumer Internet	Online match-making app	Bangalore
+10753512	Consumer Internet	Parenting Mobile App	New Delhi
+10753539	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10753896	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10754733	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10755730	Consumer Internet	Educational College Search platform	New Delhi
+10756243	Consumer Internet	Ride Sharing platform	Bangalore
+10758577	Consumer Internet	Crowd Funding Platform	New Delhi
+10759063	ECommerce	Online platform for Higher Education Services	New Delhi
+10759477	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10760028	Technology	Online Tutorial Marketplace	Bangalore
+10760105	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10760294	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10761083	Education	Career Planning and Education Advisory Platform	Mumbai
+10761183	Consumer Internet	Mobile balance Checking App	Gurgaon
+10761480			
+10761594	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10761786	Technology	Financial Technology Research Platform	Bangalore
+10761852	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10762295	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10762956	Technology	Real time data analytics & reporting	Bangalore
+10763672	Healthcare	Professional Health Services Platform	Mumbai
+10763756	Consumer Internet	Party Hall Booking platform	Bangalore
+10763816	Consumer Internet	Online Furniture Customization platform	Bangalore
+10764031	Technology	Expense Management Solution	Bangalore
+10764623			
+10764650	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10764657	Healthcare	Healthcare Product Manufacturer	Bangalore
+10765144	Healthcare	Medical Tourism platform	Pune
+10765348	Healthcare	Weigh Loss Coaching	Mumbai
+10765788	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10765950	Healthcare	Healthcare Product Manufacturer	Bangalore
+10766245	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10766481	ECommerce	B2B Marketplace for Distributors	Mumbai
+10766521	Technology	Next Generation in-building connectivity	Bangalore
+10766839	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10767357	Consumer Internet	inter-city cab aggregator	New Delhi
+10768124	Consumer Internet	Crowd Funding Platform	New Delhi
+10768166	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10768762	Consumer Internet	Online Fantasy Games	Mumbai
+10768848	ECommerce	Online Grocery Store	Bangalore
+10768896	ECommerce	B2B Marketplace for Distributors	Mumbai
+10769253	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10769446	Technology	Car Rental Software Solutions	Noida
+10769486	Education	Mobile Based Education platform	Jaipur
+10770061	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10770247	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10770693	Education	Children Education & Information platform	Gurgaon
+10771375	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10771404	ECommerce	Home D?cor Product etailer	New Delhi
+10771909	ECommerce	Organic Food eTailer	Bangalore
+10772839	Technology	Car Rental Software Solutions	Noida
+10773313	Consumer Internet	DIY event registration and ticketing portal	Pune
+10773915	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10774509	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10774573	Consumer Internet	Rental Bike Aggregator App	Noida
+10775194	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10775707	Technology	Connected Smart Home Solutions	Bangalore
+10775827	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10775889	Consumer Internet	Crowd Funding Platform	New Delhi
+10776635	Consumer Internet	Tech Enabler for Artists	Mumbai
+10777037	Consumer Internet	Online Real Estate Portal	Mumbai
+10777822	Consumer Internet	First Aid care app	Gurgaon
+10778068	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10778634	Consumer Internet	Online Furniture Customization platform	Bangalore
+10779033	ECommerce	ECommerce Marketplace	Gurgaon
+10779428	Consumer Internet	Auto Classifieds Portal	Mumbai
+10780050	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10780339	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10780515	Consumer Internet	Party Hall Booking platform	Bangalore
+10780701	Education	Mobile Based Education platform	Jaipur
+10782173	Consumer Internet	Automobile Service Booking App	Bangalore
+10783007	Consumer Internet	Parenting Mobile App	New Delhi
+10783041	ECommerce	Online Jewellery etailer	Bangalore
+10784036	Consumer Internet	Online insurance policy aggregator	Noida
+10784269	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10784343	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10784629	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10784679	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10785018	Technology	Financial Technology Research Platform	Bangalore
+10785436	ECommerce	Construction Material Marketplace	Bangalore
+10785469	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10786107	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10786526	ECommerce	Construction Material Marketplace	Bangalore
+10786995			
+10787397	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10787424	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10788038	Consumer Internet	Food Delivery Platform	Hyderabad
+10788253	Consumer Internet	Rental Bike Aggregator App	Noida
+10788986	Consumer Internet	Rental Bike Aggregator App	Noida
+10789162	Finance	Social Business Incubator & Fund	Chennai
+10789879	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10789943	ECommerce	Online marketplace for cars	Mumbai
+10789976	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10790164	ECommerce	ECommerce Marketplace	Gurgaon
+10790874	Healthcare	Medical Tourism platform	Pune
+10791078	Technology	Next Generation in-building connectivity	Bangalore
+10791816			
+10791932	Technology	Home Automation & Security Solutions	Bangalore
+10791953	Consumer Internet	Online match-making app	Bangalore
+10792920	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10792999	Technology	Real time data analytics & reporting	Bangalore
+10793587	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10793642	Consumer Internet	Co-Working Space Platform	New Delhi
+10794155	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10795147	Healthcare	Salons & Spa Chain	Gurgaon
+10796025	Consumer Internet	Auto Classifieds Portal	Mumbai
+10796902	Finance	Social Business Incubator & Fund	Chennai
+10797157	Consumer Internet	Mobile based Referral Platform	Mumbai
+10797363	Education	College Education Portal	New Delhi
+10797705	Technology	Real time data analytics & reporting	Bangalore
+10798561	Consumer Internet	P2P Messaging Service	New Delhi
+10798604	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10799355	Healthcare	Salons & Spa Chain	Gurgaon
+10799528	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10799548	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10800105	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10800147	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10800648	Technology	Mobile App Analytics	Mumbai
+10800980	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10801308	Consumer Internet	Parenting Social Network	Bangalore
+10801837	ECommerce	Online Pet Store	Gurgaon
+10801846	Technology	Mobile & Cloud based App developer	New Delhi
+10802555	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10803050	ECommerce	Home D?cor Product etailer	New Delhi
+10803138	Consumer Internet	Online Payment Gateway	Mumbai
+10803185	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10803430	ECommerce	Online Rental Marketplace	Bangalore
+10803528	Finance	Online Lending	Ahmedabad
+10804315	Education	Mobile Based Education platform	Jaipur
+10804584	ECommerce	Organic Food eTailer	Bangalore
+10805200	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10805290	Technology	VR based Spiritual platform	Bangalore
+10805535	Consumer Internet	Automobile Service Booking App	Bangalore
+10806556	Consumer Internet	Mobile app based Job Search	Noida
+10806931	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10807127	Consumer Internet	healthcare aggregator platform	Mumbai
+10807150	Consumer Internet	Online travel agent marketplace	Noida
+10807731	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10808153	Technology	Real time data analytics & reporting	Bangalore
+10808162	ECommerce	Kids Focused eTailer	Pune
+10808477	Consumer Internet	Photo Sharing for Groups	Bangalore
+10809139	Consumer Internet	Curated Platform for Developers	Hyderabad
+10809211	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10809694	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10809820	Consumer Internet	Co-Working Space Platform	New Delhi
+10810609	ECommerce	ECommerce Marketplace	Gurgaon
+10810703			
+10811077	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10811292	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10812094	ECommerce	Online Jewellery etailer	Bangalore
+10812403	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10812707	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10813183	Education	Children Education & Information platform	Gurgaon
+10813273	Finance	Online Lending	Pune
+10813491	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10814061	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10814132	Consumer Internet	Online Bike & Car Services provider	Chennai
+10814647	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10814891	Consumer Internet	Online travel agent marketplace	Noida
+10814957	Consumer Internet	Curated Platform for Developers	Hyderabad
+10815048	Technology	Aadhaar-based API provider	Pune
+10815292	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10815297	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10815791	Consumer Internet	Rental Bike Aggregator App	Noida
+10816273	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10816452	Technology	Medical Automation platform	Bangalore
+10816576	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10816884	Technology	Online Tutorial Marketplace	Bangalore
+10817790	ECommerce	Specialty Tea ETailer	Siliguri
+10817952	Education	Child Disorder Information & Education	Bhopal
+10818006	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10818206	Consumer Internet	Online Real Estate Portal	Mumbai
+10818492	ECommerce	Mobile Accessories etailer	New Delhi
+10818842	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10818931	Consumer Internet	Online travel agent marketplace	Noida
+10818945	Consumer Internet	Educational College Search platform	New Delhi
+10819381	E-commerce	Retail	Delhi
+10819607	Technology	Personal Assistant	Bengaluru
+10820102	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10820163	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10821425	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10821478	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10821606	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10821834	Consumer Internet	healthcare aggregator platform	Mumbai
+10822003	Consumer Internet	on-demand concierge services	Gurgaon
+10822063	Education	Children Education & Information platform	Gurgaon
+10822669	Consumer Internet	Dating & Singles Chat Platform	Mumbai
+10822905	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10823020	ECommerce	ECommerce Marketplace	Gurgaon
+10823192	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10823367	Technology	Data Intelligence & Analytics	Hyderabad
+10824367	ECommerce	Construction Material ETailer	Gurgaon
+10825446	Consumer Internet	Party Hall Booking platform	Bangalore
+10825854	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10825880	ECommerce	Construction Material ETailer	Gurgaon
+10826299	Consumer Internet	"Online Travel, Adventure & Activities Portal"	Bangalore
+10826615	ECommerce	Online marketplace for cars	Mumbai
+10826910	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10827224	ECommerce	Construction Material Marketplace	Bangalore
+10827486	BFSI	Startup Funding Deal Discovery & Execution platform	Bangalore
+10827743	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10827930	Consumer Internet	Online Real Estate Portal	Mumbai
+10828219	Technology	Medical Automation platform	Bangalore
+10828350	Consumer Internet	Online Bike & Car Services provider	Chennai
+10829102	Consumer Internet	Personal Finance Mobile App	Bangalore
+10829373	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10829497	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10829708	Consumer Internet	inter-city cab aggregator	New Delhi
+10830305	Consumer Internet	healthcare aggregator platform	Mumbai
+10831487	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10831501	Technology	Connected Smart Home Solutions	Bangalore
+10831702	Consumer Internet	Party Hall Booking platform	Bangalore
+10831927	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10832414	Technology	Customer Engagement Platform	New Delhi
+10832579	ECommerce	Online Jewellery etailer	Bangalore
+10832705	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10832745	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10833506	Consumer Internet	Casual Gaming platform	New Delhi
+10834590	ECommerce	Online marketplace for cars	Mumbai
+10835984	Consumer Interne	Medical Video Consultation platform	Bangalore
+10836223	Healthcare	Salons & Spa Chain	Gurgaon
+10836941	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10837476	Consumer Internet	Online Payment Gateway	Mumbai
+10838493	Consumer Internet	Online travel agent marketplace	Noida
+10839400	eCommerce	Solution provider for pet needs	Mumbai
+10839766	Technology	Mobile & Cloud based App developer	New Delhi
+10839997	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10841648	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10842905	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10843161	Education	Children Education & Information platform	Gurgaon
+10843973	Education	College Education Portal	New Delhi
+10844364	Consumer Internet	Mobile Advertising App	Noida
+10844424			
+10844971	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10845847	Technology	Data Analytics platform	New Delhi
+10845870	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10846271	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10846780	Technology	Mobile App Analytics	Mumbai
+10847428	Consumer Internet	Online travel agent marketplace	Noida
+10848100	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10848410			
+10848854	Healthcare	Weigh Loss Coaching	Mumbai
+10850217	Consumer Internet	Online Fantasy Games	Mumbai
+10850887	Consumer Internet	healthcare aggregator platform	Mumbai
+10851580	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10851646	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10851904	Consumer Internet	Mobile Advertising App	Noida
+10851906	Consumer Internet	Crowd Funding Platform	New Delhi
+10852260	Education	Children Education & Information platform	Gurgaon
+10852674	Consumer Internet	Party Hall Booking platform	Bangalore
+10854135	Consumer Internet	Online/Mobile food ordering platform	Bangalore
+10855313	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10856488	Technology	Personal Assistant	Bengaluru
+10856895	Finance	Social Business Incubator & Fund	Chennai
+10857636	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10858181	Consumer Internet	Online insurance policy aggregator	Noida
+10858461	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10858736	Entertainment	Digital Entertainment for Children	Mumbai
+10858968	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10859088	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10859109	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10859306	Consumer Internet	Online Real Estate Portal	Mumbai
+10859801	Consumer Internet	Online Counselling Platform	Mumbai
+10859933	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10860768	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10860808	Consumer Internet	Mobile Advertising App	Noida
+10861053	ECommerce	Construction Material ETailer	Gurgaon
+10861589	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10861943	Education	Child Disorder Information & Education	Bhopal
+10862205	Technology	Home Automation & Security Solutions	Bangalore
+10863639	Consumer Internet	Photo Sharing for Groups	Bangalore
+10864149	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10864734	ECommerce	Construction Material Marketplace	Bangalore
+10866334	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10867048	ECommerce	Online Fashion Apparel Retailer	Gurgaon
+10867835	ECommerce	Online marketplace for cars	Mumbai
+10867863	ECommerce	Adult Products Etailers	New Delhi / US
+10867894	Consumer Internet	Educational College Search platform	New Delhi
+10868158	ECommerce	Online Pet Store	Gurgaon
+10868552	Consumer Internet	Mobile Advertising App	Noida
+10869535	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10869648	Healthcare	Healthcare Product Manufacturer	Bangalore
+10870475	Consumer Internet	Personal Finance Mobile App	Bangalore
+10870503	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10871067	ECommerce	Specialty Tea ETailer	Siliguri
+10871729	Consumer Internet	Online match-making app	Bangalore
+10871945	Consumer Internet	Personal Finance Mobile App	Bangalore
+10871982	Technology	Mobile & Cloud based App developer	New Delhi
+10872420	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10872664	Technology	Online Tutorial Marketplace	Bangalore
+10872749	Technology	Expense Management Solution	Bangalore
+10873597	Consumer Internet	Train PNR Status Prediction Platform	Bangalore
+10874112	Technology	Real time data analytics & reporting	Bangalore
+10874991	Technology	Hotel Management Solution	Kolkata
+10875116	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10875273	Consumer Internet	Mobile app based Job Search	Noida
+10875410	ECommerce	Online Pet Store	Gurgaon
+10875517	Technology	Decision Sciences Analytics Solutions	Bangalore
+10875544	Consumer Internet	peer-to-peer renting Marketplace	Bangalore
+10875908	ECommerce	Construction Material Marketplace	Bangalore
+10875984	Technology	Connected Smart Home Solutions	Bangalore
+10876838	Healthcare	Weigh Loss Coaching	Mumbai
+10876962	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10877268	Consumer Internet	Smart Parking Platform	New Delhi
+10878435	Technology	Connected Smart Home Solutions	Bangalore
+10878738	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10878854	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10879279	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10879352	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10879719	Healthcare	Professional Health Services Platform	Mumbai
+10879935			
+10880818	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10881046	Consumer Internet	Mobile app based Job Search	Noida
+10881508	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10882499	Consumer Internet	Photo Sharing for Groups	Bangalore
+10882574	Consumer Internet	Online Fantasy Games	Mumbai
+10883097	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10883359	Logistics	Online freight aggregator	Bangalore
+10883513	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10883980	Healthcare	Healthcare Product Manufacturer	Bangalore
+10884227	ECommerce	Mobile based Retail Market Ecosystem	Bangalore
+10884615	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10886391	Consumer Internet	B2B Mobile App for Pharmacies	Mumbai
+10887422	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10887627	Technology	Aadhaar-based API provider	Pune
+10887686	Consumer Internet	Mobile balance Checking App	Gurgaon
+10888405	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10888604	E-commerce	Retail	Delhi
+10888623	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10888778	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10889834	Education	Mobile Based Education platform	Jaipur
+10890080	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10890339	ECommerce	Online Pet Store	Gurgaon
+10890517	Consumer Internet	Online insurance policy aggregator	Noida
+10890627	ECommerce	Construction Material ETailer	Gurgaon
+10890685	Technology	Personal Assistant	Bengaluru
+10891407	Consumer Internet	Parenting Social Network	Bangalore
+10891466	Consumer Internet	on-demand concierge services	Gurgaon
+10891490	Consumer Internet	Online travel agent marketplace	Noida
+10892184	Education	Child Disorder Information & Education	Bhopal
+10892375	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10892916	Technology	Mobile App Analytics	Mumbai
+10893223	Technology	Medical Devices	Surat
+10893240	ECommerce	Online Grocery Store	Bangalore
+10893370	Consumer Internet	Coupon & Cashback platform	Gurgaon
+10893856	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10893922	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10893944	ECommerce	Online/ Mobile Jewellery Retailer	Bangalore
+10894157	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10895121	Education	College Education Portal	New Delhi
+10896228	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10896425	Consumer Internet	Online match-making app	Bangalore
+10896472	Consumer Internet	Online Furniture Customization platform	Bangalore
+10896774	Consumer Internet	P2P Messaging Service	New Delhi
+10897626	Technology	Mobile App Analytics	Mumbai
+10898271	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10898398	Technology	Aadhaar-based API provider	Pune
+10898674	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10900321	ECommerce	Kids Focused eTailer	Pune
+10900811	Consumer Interne	Medical Video Consultation platform	Bangalore
+10901223	ECommerce	Mobile Accessories etailer	New Delhi
+10901704	Consumer Internet	Casual Gaming platform	New Delhi
+10901957	Education	Mobile Based Education platform	Jaipur
+10902147	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10902637	ECommerce	Online Pet Store	Gurgaon
+10903010	Technology	Data Intelligence & Analytics	Hyderabad
+10904142	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10904769	Consumer Internet	Online travel agent marketplace	Noida
+10904802	Food & Beverage	Healthy food manufacturing & sales startup	Ahmedabad
+10905348	Technology	Medical Automation platform	Bangalore
+10905636	Technology	Next Generation in-building connectivity	Bangalore
+10906632	Consumer Internet	Personal Finance Mobile App	Bangalore
+10906657	ECommerce	Home D?cor Product etailer	New Delhi
+10906669	Consumer Internet	Parenting Social Network	Bangalore
+10906770	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10906820	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10907029	Healthcare	Professional Health Services Platform	Mumbai
+10907056	Consumer Internet	Instant Content Transfer Mobile App	Mumbai
+10907081	E-commerce	Retail	Delhi
+10907861	Technology	"TV Search, Guide and Remote mobile app"	Bangalore
+10908074	Technology	Hotel Management Solution	Kolkata
+10908102	Consumer Internet	Deal Discovery App	Bangalore
+10908196	Consumer Internet	Educational College Search platform	New Delhi
+10909116	Consumer Internet	Mobile Advertising App	Noida
+10909276	Consumer Internet	P2P Messaging Service	New Delhi
+10910260	Consumer Internet	Mobile app based Job Search	Noida
+10910327	Technology	Local language Mobile OS	Mumbai
+10910408	Education	Children Education & Information platform	Gurgaon
+10911574	ECommerce	Online marketplace for cars	Mumbai
+10911891	Consumer Internet	SME Online Buying Hub	Gurgaon
+10912901	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10913997	Consumer Internet	Deal Discovery App	Bangalore
+10915847	Consumer Internet	Casual Gaming platform	New Delhi
+10915994	ECommerce	Mobile Accessories etailer	New Delhi
+10917263	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10917455	ECommerce	Adult Products Etailers	New Delhi / US
+10917672	FMCG	Vegetables & Fruits Supply Chain	Mumbai
+10917881	Consumer Internet	Ride Sharing platform	Bangalore
+10917987	Technology	Financial Technology Research Platform	Bangalore
+10918127	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10918162	Technology	TV to Mobile audience Platform	Gurgaon
+10919782	Healthcare	Medical Tourism platform	Pune
+10919810	ECommerce	Organic Food eTailer	Bangalore
+10920032	Consumer Internet	Online match-making app	Bangalore
+10921095	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10921777	Technology	Expense Management Solution	Bangalore
+10922112	Consumer Internet	Online Payment Gateway	Mumbai
+10922486	ECommerce	Specialty Tea ETailer	Siliguri
+10923774	E-commerce	Food and Beverages	Bengaluru
+10923839	Consumer Internet	on-demand concierge services	Gurgaon
+10923899	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10924380	Consumer Internet	P2P Messaging Service	New Delhi
+10925096	Real Estate	Branded Workspaces Aggregator	Gurgaon
+10925181	Consumer Internet	Online travel agent marketplace	Noida
+10925484	Consumer Internet	Casual Gaming platform	New Delhi
+10925559	Education	Career Planning and Education Advisory Platform	Mumbai
+10925633	Technology	Home Automation & Security Solutions	Bangalore
+10925988	ECommerce	ECommerce Marketplace	Gurgaon
+10926282	Consumer Internet	P2P Messaging Service	New Delhi
+10926322	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10926434	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10926436	Consumer Internet	Online Furniture Customization platform	Bangalore
+10927021	ECommerce	Online Grocery Store	Bangalore
+10927241	ECommerce	Construction Material Marketplace	Bangalore
+10927431	Healthcare	Healthcare Product Manufacturer	Bangalore
+10927445	Healthcare	Salons & Spa Chain	Gurgaon
+10927698	Consumer Internet	on-demand concierge services	Gurgaon
+10928214	Consumer Internet	SME Online Buying Hub	Gurgaon
+10929900	Consumer Internet	Online Bike & Car Services provider	Chennai
+10930899	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10930969	Technology	Expense Management Solution	Bangalore
+10930970	Consumer Internet	Ride Sharing platform	Bangalore
+10931378	ECommerce	Kids Focused eTailer	Pune
+10931638	ECommerce	Construction Material ETailer	Gurgaon
+10931677	ECommerce	ECommerce Marketplace	Gurgaon
+10931701	Education	Children Education & Information platform	Gurgaon
+10932050	Consumer Internet	DIY event registration and ticketing portal	Pune
+10932569	Technology	Real time data analytics & reporting	Bangalore
+10933133	ECommerce	Home D?cor Product etailer	New Delhi
+10933355	Consumer Internet	Online Education Portal	Gurgaon
+10933359	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10933381	Technology	Enterprise Cloud Based Data Processing	Bangalore
+10933625	Consumer Internet	Mobile balance Checking App	Gurgaon
+10933646	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10934148	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10934260	Consumer Internet	Automobile Service Booking App	Bangalore
+10934512	Consumer Internet	Ride Sharing platform	Bangalore
+10935877	Consumer Internet	Online Furniture Customization platform	Bangalore
+10936359	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10936410	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10937543	Consumer Internet	Food Delivery Platform	Hyderabad
+10937984	E-commerce	Retail	Delhi
+10938100	Technology	Data Intelligence & Analytics	Hyderabad
+10939052	Technology	Financial Technology Research Platform	Bangalore
+10939396	Consumer Internet	Deal Discovery App	Bangalore
+10941588	Consumer Internet	Food Delivery Platform	Hyderabad
+10942065	Technology	Real time data analytics & reporting	Bangalore
+10942078	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10942482	ECommerce	B2B Industrial Goods Marketplace	New Delhi
+10942718	Consumer Internet	Online match-making app	Bangalore
+10942787	Consumer Internet	Carpooling Mobile App	Gurgaon
+10943018	Education	School Student admissions platform	New Delhi
+10943117	Consumer Internet	Carpooling Mobile App	Gurgaon
+10943226	ECommerce	Construction Material ETailer	Gurgaon
+10943291	ECommerce	Online marketplace for cars	Mumbai
+10943470	Consumer Internet	Mobile based Geo-target Fashion Marketplace	Mumbai
+10944103	Healthcare	Medical Tourism platform	Pune
+10944508	ECommerce	Kids Focused eTailer	Pune
+10945361	Technology	Data Analytics platform	New Delhi
+10945629	Technology	Smartphone OS Developer	Bangalore
+10945834	ECommerce	Online Grocery Store	Bangalore
+10945926	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10946187	ECommerce	Adult Products Etailers	New Delhi / US
+10947253	Technology	Connected Smart Home Solutions	Bangalore
+10947939	Consumer Internet	On Demand Cleaning Services Mobile App	Mumbai
+10948244	Consumer Internet	Online / Mobile Food Ordering platform	Bangalore
+10948702	Consumer Internet	Photo Sharing for Groups	Bangalore
+10948718	Education	Career Planning and Education Advisory Platform	Mumbai
+10949413	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10949491	Technology	Local language Mobile OS	Mumbai
+10949600	Technology	Electronic Payments Solution Company	Mumbai
+10949767	Consumer Internet	Food Delivery Platform	Hyderabad
+10949963	Education	Career Planning and Education Advisory Platform	Mumbai
+10950327	Consumer Internet	Deal Discovery App	Bangalore
+10950462	Consumer Internet	on-demand concierge services	Gurgaon
+10950934	Consumer Internet	Hobby & Activity Class Aggregator	Mumbai
+10951553	ECommerce	Mobile Accessories etailer	New Delhi
+10952041	Consumer Internet	Online Bike & Car Services provider	Chennai
+10952473	Technology	Real time data analytics & reporting	Bangalore
+10952508	Consumer Internet	Smart Parking Platform	New Delhi
+10952622	Consumer Internet	Mobile app based Job Search	Noida
+10952691	Healthcare	Salons & Spa Chain	Gurgaon
+10952907	Consumer Internet	Photo Sharing for Groups	Bangalore
+10953023	ECommerce	Online Rental Marketplace	Bangalore
+10953469	Technology	Electronic Payments Solution Company	Mumbai
+10953820	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10954432	ECommerce	Adult Products Etailers	New Delhi / US
+10955253	E-commerce	Food and Beverages	Bengaluru
+10955374	Consumer Internet	Online Travel/Hotel Booking platform	Gurgaon
+10957210	ECommerce	Online Pet Store	Gurgaon
+10957281	Consumer Internet	SAAS DIY? ECommerce Platform	New Delhi
+10957475	Consumer Internet	Casual Gaming platform	New Delhi
+10957481	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10957537	Consumer Internet	P2P Messaging Service	New Delhi
+10957820	Consumer Internet	Deal Discovery App	Bangalore
+10958355	Consumer Interne	Medical Video Consultation platform	Bangalore
+10958405	Consumer Internet	Parenting Social Network	Bangalore
+10958493	Healthcare	Medical Tourism platform	Pune
+10958735	Consumer Internet	Cloud Mobility Solutions	Mumbai
+10958913	ECommerce	Kids Focused eTailer	Pune
+10959122	Consumer Internet	Carpooling Mobile App	Gurgaon
+10959420	Consumer Internet	Two Wheeler Taxi Service	Gurgaon
+10959527	Consumer Internet	Co-Living Spaces Aggregator	Bangalore
+10959798	ECommerce	B2B Procurement Marketplace for Office Products	Noida
+10959853	ECommerce	Last Minute Hotel Bookings mobile marketplace	Bangalore
+10959896	Consumer Internet	Budget Accomodation Aggregator	New Delhi
+10959920	eCommerce	Online Marketplace	Bangalore
+10960162	Technology	VR based Spiritual platform	Bangalore
+10960753	E-commerce	Sports Nutrition Supplement etailer	Bengaluru
+10960852	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10960965	Technology	Smartphone OS Developer	Bangalore
+10961182	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10961205	Consumer Internet	healthcare aggregator platform	Mumbai
+10961579	Healthcare	Women Hygiene Product Manufacturer	Mumbai
+10961760	Consumer Internet	Mobile Advertising App	Noida
+10961923	ECommerce	Organic Food eTailer	Bangalore
+10962278	Consumer Internet	Online Furniture Customization platform	Bangalore
+10963088	Consumer Internet	healthcare aggregator platform	Mumbai
+10963157	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10963452	Consumer Internet	Interior Design Marketplace	New Delhi
+10963794	Education	School Student admissions platform	New Delhi
+10963861	Consumer Internet	Rental Bike Aggregator App	Noida
+10964064	ECommerce	ECommerce Marketplace	Gurgaon
+10965122	Education	Child Disorder Information & Education	Bhopal
+10965491	ECommerce	Online Rental Marketplace	Bangalore
+10965638	Consumer Internet	Smart Parking Platform	New Delhi
+10965708	Consumer Internet	Personal Finance Mobile App	Bangalore
+10965736	eCommerce	Online Marketplace	Bangalore
+10966044	Consumer Internet	Social Meeting organizer App	Mumbai / UK
+10966444	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10966587	Consumer Internet	Interior Design Marketplace	New Delhi
+10966686	ECommerce	Mobile Accessories etailer	New Delhi
+10967317	Technology	Coding Skill Showcase & Resume Builder	Hyderabad
+10967562	Consumer Internet	Parenting Social Network	Bangalore
+10968277	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10968803	Healthcare	Medical Tourism platform	Pune
+10969206	Technology	IoT Based Energy Monitoring & Control	Gurgaon
+10969572	Education	Career Planning and Education Advisory Platform	Mumbai
+10969930	ECommerce	Kids Focused eTailer	Pune
+10970661	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10971078	Education	Mobile Based Education platform	Jaipur
+10971485	ECommerce	Specialty Tea ETailer	Siliguri
+10971629	ECommerce	Construction Material ETailer	Gurgaon
+10971645	Consumer Internet	Food Ordering Mobile App	Hyderabad
+10971776	Consumer Internet	Online Payment Gateway	Mumbai
+10972368	Consumer Internet	P2P Messaging Service	New Delhi
+10972557	Healthcare	Professional Health Services Platform	Mumbai
+10972858	Consumer Internet	Party Hall Booking platform	Bangalore
+10972920	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10973816	Consumer Internet	Mobile app based Job Search	Noida
+10973892	Technology	Medical Automation platform	Bangalore
+10974242	Consumer Internet	Mobile balance Checking App	Gurgaon
+10974423	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10975001	Consumer Interne	Medical Video Consultation platform	Bangalore
+10975045	eCommerce	Solution provider for pet needs	Mumbai
+10975106	ECommerce	Online marketplace for cars	Mumbai
+10975400	E-commerce	Food and Beverages	Bengaluru
+10975432	Technology	Home Automation & Security Solutions	Bangalore
+10975960	Consumer Internet	Mobile based Referral Platform	Mumbai
+10976020	Healthcare	Salons & Spa Chain	Gurgaon
+10977049	Technology	Online Tutorial Marketplace	Bangalore
+10978139	Consumer Internet	Fresh Food Delivery platform	Bangalore
+10978353	Consumer Internet	Rental Bike Aggregator App	Noida
+10979573	Consumer Internet	P2P Messaging Service	New Delhi
+10979647	Consumer Internet	P2P Messaging Service	New Delhi
+10979827	ECommerce	Online platform for Higher Education Services	New Delhi
+10979880	ECommerce	Mobile Accessories etailer	New Delhi
+10979932	Consumer Internet	Fitness related Social Networking App & Forum	Gurgaon
+10980631	ECommerce	Online Grocery Store	Bangalore
+10980926	ECommerce	Women Apparel & Lifestyle etailer	Bangalore
+10981147	ECommerce	Online Jewellery etailer	Bangalore
+10981212	Consumer Internet	Mobile Advertising App	Noida
+10981402	Consumer Internet	Deal Discovery App	Bangalore
+10982226	Consumer Internet	Smart Parking Platform	New Delhi
+10982381	Consumer Internet	Mortgage Offering Platform	Gurgaon
+10982422	Consumer Internet	Online insurance policy aggregator	Noida
+10982682	Education	School Student admissions platform	New Delhi
+10982892	Consumer Internet	Visual Search & Image Recognition Platform	Bangalore
+10983971	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10983976	Finance	Startup Crowd-funding platform	Mumbai
+10984342	Food & Beverage	Craft Beer manufacturing company	New Delhi
+10985948	Consumer Internet	Mobile Advertising App	Noida
+10986026	Consumer Internet	Online Real Estate Portal	Mumbai
+10986461	Consumer Internet	Social Network for Healthcare Professionals	Ahmedabad
+10987560	ECommerce	Online Pet Store	Gurgaon
+10987637	ECommerce	Home D?cor Product etailer	New Delhi
+10988035	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10988159	Consumer Internet	Online travel agent marketplace	Noida
+10988523	Consumer Internet	Online Furnishing Rental Platform	Gurgaon
+10989322	Consumer Internet	Automobile Service Booking App	Bangalore
+10989666	Technology	Online Tutorial Marketplace	Bangalore
+10989806	Consumer Internet	on-demand concierge services	Gurgaon
+10989816	Consumer Internet	Live Online Coaching Classes	New Delhi
+10990255	ECommerce	Adult Products Etailers	New Delhi / US
+10990291	Technology	"Sales, Market, Distribution & Data Analytics Platform"	Bangalore
+10990609	E-commerce	Food and Beverages	Bengaluru
+10991126	Consumer Internet	Indians focused Matchmaking App	Bangalore
+10992110	E-commerce	Food and Beverages	Bengaluru
+10992292	Technology	Customer Engagement Platform	New Delhi
+10992311	Consumer Internet	Food Delivery Platform	Hyderabad
+10992538	Logistics	Online freight aggregator	Bangalore
+10993241	Consumer Internet	Parenting Social Network	Bangalore
+10993576	ECommerce	Specialty Tea ETailer	Siliguri
+10993803	ECommerce	Mobile Accessories etailer	New Delhi
+10994485	Technology	Aadhaar-based API provider	Pune
+10994678	Consumer Internet	Crowd Funding Platform	New Delhi
+10995291	Education	College Education Portal	New Delhi
+10995348	ECommerce	Construction Material ETailer	Gurgaon
+10995838	Consumer Internet	Photography curation & Aggregator platform	Mumbai
+10995858	Consumer Internet	Bitcoin Buying & Selling Mobile App	Ahmedabad
+10996035	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10996112	Consumer Internet	Online Food Ordering & Delivery Portal	Gurgaon
+10996772	Consumer Internet	Educational College Search platform	New Delhi
+10996899	ECommerce	Online marketplace for cars	Mumbai
+10996955	Consumer Internet	Educational College Search platform	New Delhi
+10997222	Consumer Internet	Mobile app based Concierge Service	New Delhi
+10997568	Consumer Internet	On Demand Laundry & Dry Cleaning Services	Chennai
+10998003	Technology	TV to Mobile audience Platform	Gurgaon
+10998072	Technology	Real time data analytics & reporting	Bangalore
+10998641	Consumer Internet	Hindi Language Social Networking Portal	Kanpur
+10998764	Healthcare	Weigh Loss Coaching	Mumbai
+10999445	Technology	Data Intelligence & Analytics	Hyderabad
+10999858	Consumer Internet	Automobile Classifieds Portal	Mumbai
+10999887	Technology	Car Rental Software Solutions	Noida
